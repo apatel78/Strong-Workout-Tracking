@@ -7,7 +7,7 @@ on:
     # local Detroit time. If you want 5:00 PM local year-round, you have to
     # edit this twice a year: "0 21 * * *" during EDT, "0 22 * * *" during EST.
     # GitHub's scheduler is best-effort and often lags 5-30 minutes.
-    - cron: "30 21 * * *"
+    - cron: "30 23 * * *"
   workflow_dispatch:
     inputs:
       full_resync:
@@ -52,17 +52,43 @@ jobs:
           fi
 
       - name: Commit and push
+        # `always()` so the run counter is still committed when the sync fails.
+        # The job still reports red, because the sync step's failure stands.
+        if: always()
+        env:
+          COMMIT_NAME: ${{ vars.GIT_COMMIT_NAME }}
+          COMMIT_EMAIL: ${{ vars.GIT_COMMIT_EMAIL }}
         run: |
-          git config user.name "strong-sync-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          set -euo pipefail
+
+          # The contribution graph keys off the commit AUTHOR email. It must be
+          # an address associated with your GitHub account -- the default
+          # github-actions[bot] address belongs to the bot, so those commits
+          # never appear on your heatmap. Set these as repository VARIABLES
+          # (Settings -> Secrets and variables -> Actions -> Variables).
+          if [ -z "${COMMIT_EMAIL:-}" ]; then
+            echo "::error::GIT_COMMIT_EMAIL repository variable is not set."
+            echo "Find your address at Settings -> Emails; it looks like"
+            echo "  12345678+username@users.noreply.github.com"
+            exit 1
+          fi
+
+          git config user.name "${COMMIT_NAME:-$GITHUB_ACTOR}"
+          git config user.email "$COMMIT_EMAIL"
+
           git add -A data state.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "chore: strong sync $(date -u +%Y-%m-%d)"
+
           for i in 1 2 3; do
-            git pull --rebase --autostash && git push && exit 0
+            if git pull --rebase --autostash && git push; then
+              echo "Pushed as $(git log -1 --pretty='%an <%ae>')"
+              exit 0
+            fi
             echo "Push attempt $i failed; retrying..."
             sleep 5
           done
