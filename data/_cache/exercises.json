@@ -780,8 +780,8 @@
   },
   "3e15b3fa-bd04-49ff-a622-633208a2d5df": {
     "best": {
-      "date": "2025-10-08T17:15:54.629000+00:00",
-      "log_id": "9f838dfd-464c-4eb0-a313-877269553a31",
+      "date": "2026-01-21T18:20:45.510000+00:00",
+      "log_id": "74e39419-7807-4b7b-b71d-cbf74297e1a1",
       "metric_id": "3e15b3fa-bd04-49ff-a622-633208a2d5df",
       "name_hint": null,
       "sets": [
@@ -800,21 +800,21 @@
       ]
     },
     "latest": {
-      "date": "2025-12-19T20:12:56.112000+00:00",
-      "log_id": "ce30cd54-3dcb-4cb6-8520-a1e7ceaad3cb",
+      "date": "2026-01-21T18:20:45.510000+00:00",
+      "log_id": "74e39419-7807-4b7b-b71d-cbf74297e1a1",
       "metric_id": "3e15b3fa-bd04-49ff-a622-633208a2d5df",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 90.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 90.0
         }
       ]
@@ -1068,8 +1068,8 @@
   },
   "4b8c9374-ab32-4912-906a-202ef1b20ea6": {
     "best": {
-      "date": "2024-11-26T13:00:01.875000+00:00",
-      "log_id": "53c802d7-ab78-432c-bb96-f6a54005e1ee",
+      "date": "2025-04-22T16:39:23.480000+00:00",
+      "log_id": "d7e28931-4142-46aa-ad03-e93be32a3e68",
       "metric_id": "4b8c9374-ab32-4912-906a-202ef1b20ea6",
       "name_hint": null,
       "sets": [
@@ -1082,7 +1082,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 55.0
         },
         {
@@ -2240,22 +2240,22 @@
   },
   "a467f043-c96e-43c8-9133-a33eb8e62ded": {
     "best": {
-      "date": "2026-02-02T17:39:29.553000+00:00",
-      "log_id": "84a68096-5f4d-4d12-9fdf-4f93399513a3",
+      "date": "2024-06-08T14:12:20.420000+00:00",
+      "log_id": "6da299d9-0153-4a7b-a36f-b7b08b7a9b53",
       "metric_id": "a467f043-c96e-43c8-9133-a33eb8e62ded",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 10,
-          "weight": 100.0
+          "reps": 8,
+          "weight": 110.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 10,
-          "weight": 100.0
+          "reps": 7,
+          "weight": 110.0
         }
       ]
     },
@@ -2375,54 +2375,54 @@
   },
   "a70c5efc-a8dc-46d8-bee6-dd212d814907": {
     "best": {
-      "date": "2025-04-23T20:23:08.449000+00:00",
-      "log_id": "98e4567a-d70b-48c6-8559-33bd69ff0f16",
+      "date": "2025-04-26T17:44:14.440000+00:00",
+      "log_id": "674233c1-78d1-43c3-918f-cb0fe3af7e16",
       "metric_id": "a70c5efc-a8dc-46d8-bee6-dd212d814907",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 9,
           "weight": 80.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 80.0
+          "reps": 5,
+          "weight": 90.0
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 70.0
+          "reps": 4,
+          "weight": 80.0
         }
       ]
     },
     "latest": {
-      "date": "2025-04-23T20:23:08.449000+00:00",
-      "log_id": "98e4567a-d70b-48c6-8559-33bd69ff0f16",
+      "date": "2025-04-26T17:44:14.440000+00:00",
+      "log_id": "674233c1-78d1-43c3-918f-cb0fe3af7e16",
       "metric_id": "a70c5efc-a8dc-46d8-bee6-dd212d814907",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 9,
           "weight": 80.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 80.0
+          "reps": 5,
+          "weight": 90.0
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 70.0
+          "reps": 4,
+          "weight": 80.0
         }
       ]
     },
@@ -2602,8 +2602,8 @@
   },
   "b2f5a8c1-b66a-4b4f-8f2a-72fbf578d943": {
     "best": {
-      "date": "2026-07-28T16:12:48.963000+00:00",
-      "log_id": "9eae4ee3-9a5a-4913-8297-3097a93cb037",
+      "date": "2024-06-08T14:12:20.420000+00:00",
+      "log_id": "6da299d9-0153-4a7b-a36f-b7b08b7a9b53",
       "metric_id": "b2f5a8c1-b66a-4b4f-8f2a-72fbf578d943",
       "name_hint": null,
       "sets": [
@@ -2616,8 +2616,8 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 105.0
+          "reps": 7,
+          "weight": 115.0
         }
       ]
     },
@@ -2866,16 +2866,16 @@
   },
   "bbfc5141-a7d1-42a9-887f-bf8e825da359": {
     "best": {
-      "date": "2025-04-24T17:47:24.687000+00:00",
-      "log_id": "104117e8-2269-45e3-a309-8b9871d6c4db",
+      "date": "2025-04-26T17:44:14.440000+00:00",
+      "log_id": "674233c1-78d1-43c3-918f-cb0fe3af7e16",
       "metric_id": "bbfc5141-a7d1-42a9-887f-bf8e825da359",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 11,
-          "weight": 57.5
+          "reps": 8,
+          "weight": 60.0
         },
         {
           "index": 2,
@@ -2892,16 +2892,16 @@
       ]
     },
     "latest": {
-      "date": "2025-04-24T17:47:24.687000+00:00",
-      "log_id": "104117e8-2269-45e3-a309-8b9871d6c4db",
+      "date": "2025-04-26T17:44:14.440000+00:00",
+      "log_id": "674233c1-78d1-43c3-918f-cb0fe3af7e16",
       "metric_id": "bbfc5141-a7d1-42a9-887f-bf8e825da359",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 11,
-          "weight": 57.5
+          "reps": 8,
+          "weight": 60.0
         },
         {
           "index": 2,
