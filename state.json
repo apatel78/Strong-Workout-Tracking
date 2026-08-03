@@ -1,10 +1,10 @@
 {
   "continuation": null,
   "first_run": "2026-08-03T15:23:14+00:00",
-  "last_new_workout_at": "2026-08-03T19:36:53+00:00",
-  "last_run": "2026-08-03T19:36:53+00:00",
-  "last_successful_run": "2026-08-03T19:36:53+00:00",
-  "run_count": 2,
+  "last_new_workout_at": "2026-08-03T22:34:03+00:00",
+  "last_run": "2026-08-03T22:34:03+00:00",
+  "last_successful_run": "2026-08-03T22:34:03+00:00",
+  "run_count": 3,
   "seen_log_ids": [
     "009e7d07-8fe9-4931-94c8-49ed4d0b52a3",
     "01e1e438-b832-448c-baa7-9bd9140a1879",
@@ -37,6 +37,7 @@
     "276acd3f-6ab9-417b-bb3b-6347a4ffff06",
     "298abd61-1a5d-4075-a2c9-a8980237e84e",
     "29de064d-26e6-414d-a2a5-1b8ae2421244",
+    "2a28eb0f-70a6-4b5e-b353-c8f74eae6972",
     "2c5fe90b-0c57-45e6-a8f1-581958b129dc",
     "2de51f60-00c8-49ee-93ee-caf72d63f555",
     "2e99509d-378f-4000-b868-085eba5a136f",
@@ -207,5 +208,5 @@
     "fcd180bb-a78f-4191-aa48-07b00cf0bbc8",
     "ffdaacd0-20f4-4be3-89d0-b9ad0d9e0b55"
   ],
-  "total_workouts": 200
+  "total_workouts": 201
 }
