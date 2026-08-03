@@ -1,0 +1,802 @@
+{
+  "004b7bab-8c8e-44b7-bedf-4abd163ed878": {
+    "body_part_raw": null,
+    "name": "Rear Delt Flys"
+  },
+  "00980376-619e-4898-b27c-1dde6faa0daa": {
+    "body_part_raw": "legs",
+    "name": "Stiff Leg Deadlift (Dumbbell)"
+  },
+  "0373b862-bde8-4335-ab03-763cca57455c": {
+    "body_part_raw": "full-body",
+    "name": "Ball Slams"
+  },
+  "045d89bc-900c-444f-b72a-3852a05ef78f": {
+    "body_part_raw": "legs",
+    "name": "Romanian Deadlift (Dumbbell)"
+  },
+  "04e2090c-a84e-47a1-81c5-55103b28ed2f": {
+    "body_part_raw": "chest",
+    "name": "Pullover (Machine)"
+  },
+  "0714b5c2-5036-4348-9b94-4be2c471a778": {
+    "body_part_raw": "back",
+    "name": "High Row"
+  },
+  "091ba495-1623-4578-95f0-5bd1aeebf3e9": {
+    "body_part_raw": "shoulders",
+    "name": "Lateral Raise (Cable)"
+  },
+  "0973c5dd-5b62-4e9e-a15e-114cb94f440d": {
+    "body_part_raw": "arms",
+    "name": "Triceps Extension (Machine)"
+  },
+  "0f71ee4c-5dad-4617-8e8d-e8e133afc2c1": {
+    "body_part_raw": "legs",
+    "name": "Squat (Band)"
+  },
+  "1263f3d4-4ab0-4b59-a65a-626516ca87ab": {
+    "body_part_raw": "legs",
+    "name": "Zercher Squat (Barbell)"
+  },
+  "139f3a30-cf9f-4b98-9fb0-50e475653049": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown U Handle"
+  },
+  "14263e88-13d4-4582-9b18-423a36631645": {
+    "body_part_raw": "legs",
+    "name": "Standing Calf Raise (Smith Machine)"
+  },
+  "14f0d118-6f43-4986-bc6a-9495dca65837": {
+    "body_part_raw": "arms",
+    "name": "Reverse Wrist Curl (Dumbell)"
+  },
+  "1581a373-be6e-4db5-8e4c-2cb510fa0e27": {
+    "body_part_raw": null,
+    "name": "Behind Back Wrist Curls"
+  },
+  "15a4e0cd-bec7-4939-8712-0ea41af6d2da": {
+    "body_part_raw": null,
+    "name": "Seated Row Plates Upper"
+  },
+  "16828b87-c3bb-4641-ab68-c0c0d38d6bea": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl (Band)"
+  },
+  "16a02974-2807-4a5a-be6e-f06e75530cd0": {
+    "body_part_raw": "back",
+    "name": "Lat Pullover Cable"
+  },
+  "1728d364-39d0-4988-b584-b2df22c553e9": {
+    "body_part_raw": "arms",
+    "name": "Overhead Tricep Extension"
+  },
+  "18dd8142-09de-4a94-bdc4-ecc1a5a20bd9": {
+    "body_part_raw": "arms",
+    "name": "One Hand Bicep Curl (Cable)"
+  },
+  "1a9537c6-f56a-4d4e-a491-c5c172cfa5ed": {
+    "body_part_raw": "chest",
+    "name": "Pullover (Dumbbell)"
+  },
+  "1b3f846d-90e4-4cde-863a-c926844e16d7": {
+    "body_part_raw": "other",
+    "name": "Triceps Press"
+  },
+  "1d16cbcf-4876-4f4e-8687-e4ee17a4f2e4": {
+    "body_part_raw": "back",
+    "name": "Iso-Lateral High Row"
+  },
+  "1d18393d-3d25-4af7-afe5-666049ba5f28": {
+    "body_part_raw": "shoulders",
+    "name": "Shoulder Press Dumbell"
+  },
+  "1eba6b84-527e-43f8-9cbc-3ed85ef2cd7d": {
+    "body_part_raw": "arms",
+    "name": "Overhead Tricep Extension One Arm"
+  },
+  "1edc86ac-5c4a-46b4-a29b-04141141ff6b": {
+    "body_part_raw": "core",
+    "name": "Side Bend (Cable)"
+  },
+  "21ddb847-98cd-4f6c-bea5-1df51163973d": {
+    "body_part_raw": "legs",
+    "name": "Calf Press on Seated Leg Press"
+  },
+  "225ee77f-560b-4a9b-b6a9-8db4be7f762e": {
+    "body_part_raw": "back",
+    "name": "Single Hand Lat Pullover"
+  },
+  "231a78da-13dc-441d-ac31-03d5730e8168": {
+    "body_part_raw": "legs",
+    "name": "Seated Calf Raise (Machine)"
+  },
+  "237314ed-ead7-406c-92db-a20de0a9166f": {
+    "body_part_raw": "arms",
+    "name": "Skullcrusher (Dumbbell)"
+  },
+  "240d00cf-68e4-4489-8a79-7bf80b4763e7": {
+    "body_part_raw": "arms",
+    "name": "Jm Press (Machine)"
+  },
+  "247fe479-b90c-40a3-baf1-07f3c05ed014": {
+    "body_part_raw": "chest",
+    "name": "Incline Chest Press (Machine)"
+  },
+  "2558766f-8f9a-49da-b336-b2c19c0446b8": {
+    "body_part_raw": "arms",
+    "name": "Preacher Curl (Plate loaded)"
+  },
+  "26c6975a-b7f5-4eec-8129-527a07a59d73": {
+    "body_part_raw": "arms",
+    "name": "Reverse Curl (Band)"
+  },
+  "2a19b409-da25-48de-8205-3fb89f7e95f2": {
+    "body_part_raw": "cardio",
+    "name": "Running (Treadmill)"
+  },
+  "2abae8f2-b1cc-497c-af76-1c8e88ae3bf6": {
+    "body_part_raw": "legs",
+    "name": "Standing Calf Raise (Barbell)"
+  },
+  "2c5565fd-b657-40e8-96cd-800ee493e250": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown - Close Grip"
+  },
+  "2dd9442b-ff7f-4bd5-a8e2-bf8fc18cf9b1": {
+    "body_part_raw": null,
+    "name": "Decline Chest Fly (cable)"
+  },
+  "2e03cc16-f1a0-4a71-bd22-add63e90ddb6": {
+    "body_part_raw": "chest",
+    "name": "Decline Press"
+  },
+  "2f413df1-9169-4b49-bc97-be82ae29b0a5": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown - Underhand (Band)"
+  },
+  "312f0076-00f8-47a4-9365-38c80b99cb91": {
+    "body_part_raw": "legs",
+    "name": "Hip Adductor (Machine)"
+  },
+  "32f66a87-e5f4-4483-9ae9-110c20f31667": {
+    "body_part_raw": "shoulders",
+    "name": "Lateral Raise Cable (Two Hands)"
+  },
+  "3395ead5-bd9b-4d02-be71-dc2b1ee5f16d": {
+    "body_part_raw": "legs",
+    "name": "Handstand Push Up"
+  },
+  "3718fbd6-a0e5-4d56-bb92-10feb3600156": {
+    "body_part_raw": "arms",
+    "name": "Triceps Extension (Cable)"
+  },
+  "37d0955c-d9e0-453a-8f72-62e49eb32643": {
+    "body_part_raw": "back",
+    "name": "Lat Pullover (Cable)"
+  },
+  "3a438aef-3262-4b10-af0b-07a17c6694a7": {
+    "body_part_raw": "shoulders",
+    "name": "Lateral Raise (Band)"
+  },
+  "3b8b97d5-57eb-427c-85b1-4e9222593a97": {
+    "body_part_raw": "core",
+    "name": "Side Bend (Band)"
+  },
+  "3c226a8c-4399-4d98-a1fa-339e1672a163": {
+    "body_part_raw": "chest",
+    "name": "Chest Press (Band)"
+  },
+  "3d2c4225-a113-4501-bf6b-abe7503dee9e": {
+    "body_part_raw": "core",
+    "name": "Reverse Plank"
+  },
+  "3e15b3fa-bd04-49ff-a622-633208a2d5df": {
+    "body_part_raw": "back",
+    "name": "Shrug (Machine)"
+  },
+  "3eac7227-6df9-4ec5-b3c3-5287201122ba": {
+    "body_part_raw": "arms",
+    "name": "Preacher Curl (Plates)"
+  },
+  "3ee4f524-773c-453b-bcb9-192f9c6a2efa": {
+    "body_part_raw": "core",
+    "name": "Knee Raise (Captain's Chair)"
+  },
+  "402c550a-194e-4b58-a2ec-b12e5b404547": {
+    "body_part_raw": "full-body",
+    "name": "Muscle Up"
+  },
+  "40f3e468-ac9e-4115-9c4b-032c86fd0537": {
+    "body_part_raw": "arms",
+    "name": "Reverse Forearm Curl (Cable)"
+  },
+  "42695e60-4dd7-41a0-8233-c26b1fe24e6e": {
+    "body_part_raw": "core",
+    "name": "Torso Rotation (Machine)"
+  },
+  "429da4d5-a135-408c-8671-9e3b61cbb76f": {
+    "body_part_raw": "arms",
+    "name": "Cross Cable Overhead Tricep Extension"
+  },
+  "4464e3b1-c412-4047-a5b9-8cdb7c8fe7b3": {
+    "body_part_raw": "cardio",
+    "name": "Elliptical Machine"
+  },
+  "44a7d1b6-ac2e-4022-9afb-c935dc0bc553": {
+    "body_part_raw": "back",
+    "name": "Machine Row Upper"
+  },
+  "44fc5df2-520e-45d5-8810-c9e74b174e49": {
+    "body_part_raw": "core",
+    "name": "Flat Knee Raise"
+  },
+  "450f955d-a664-4585-adb6-a74f43b6a738": {
+    "body_part_raw": "shoulders",
+    "name": "Shoulder Press Incline"
+  },
+  "45fbc14c-584e-473f-81f3-14ad422906be": {
+    "body_part_raw": "shoulders",
+    "name": "Overhead Press (Cable)"
+  },
+  "487e8b08-458f-43da-a9f6-e339c8d548a9": {
+    "body_part_raw": "chest",
+    "name": "Pec Deck (Machine)"
+  },
+  "4a304d9a-9a7a-440f-bb9a-9fd5cde6b590": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl (Cable)"
+  },
+  "4a52954f-4354-4da6-81be-fff191f29f91": {
+    "body_part_raw": "legs",
+    "name": "Standing Calf Raise (Bodyweight)"
+  },
+  "4a8de470-a971-45db-830e-5f4b28db0894": {
+    "body_part_raw": "chest",
+    "name": "Decline Bench Press (Smith Machine)"
+  },
+  "4b7ad6c6-1591-4ad3-9a06-3aa8dc145c79": {
+    "body_part_raw": "chest",
+    "name": "Decline Press (Machine)"
+  },
+  "4b8c9374-ab32-4912-906a-202ef1b20ea6": {
+    "body_part_raw": "legs",
+    "name": "Seated Calf Raise (Plate Loaded)"
+  },
+  "514da8bc-c09a-4598-8157-020676b0f181": {
+    "body_part_raw": "core",
+    "name": "Sit Up (45 Degrees)"
+  },
+  "534954cb-6720-45c4-bf63-a0766142ec6c": {
+    "body_part_raw": "back",
+    "name": "Seated Row (Machine)"
+  },
+  "55afec19-d074-4083-a554-085f533b62ce": {
+    "body_part_raw": "full-body",
+    "name": "Thruster (Kettlebell)"
+  },
+  "560e513c-9b0f-4375-a02d-464bd35fa054": {
+    "body_part_raw": "shoulders",
+    "name": "Seated Overhead Press (Barbell)"
+  },
+  "56f23487-1b65-4d4e-bcba-9d7a424110ef": {
+    "body_part_raw": "shoulders",
+    "name": "Reverse Fly (Cable)"
+  },
+  "57f573f8-f797-4483-bc1f-5911a70463a6": {
+    "body_part_raw": "legs",
+    "name": "Trap Bar Deadlift"
+  },
+  "594e8ce0-a34a-4349-8dc0-7ac45950b8c8": {
+    "body_part_raw": "shoulders",
+    "name": "Front Raise (Barbell)"
+  },
+  "5db8f3d7-445e-48bb-bf4b-979b6dfdb1eb": {
+    "body_part_raw": "shoulders",
+    "name": "Seated Overhead Press (Dumbbell)"
+  },
+  "61f41123-654e-45b9-9c3b-fd4cbea9eaf0": {
+    "body_part_raw": "shoulders",
+    "name": "Upright Row (Dumbbell)"
+  },
+  "63783292-80d7-4b2c-beed-c4ecc2182e8b": {
+    "body_part_raw": "arms",
+    "name": "Two hand Hammer curl"
+  },
+  "6416d266-c84c-4aa6-a8b0-7582619c1bcb": {
+    "body_part_raw": "chest",
+    "name": "Incline Bench Press (Dumbbell)"
+  },
+  "65e1c38c-2013-40df-9d57-716a7f7f71e1": {
+    "body_part_raw": "back",
+    "name": "Iso-Lateral Row (Machine)"
+  },
+  "67e276e5-a6d9-47e0-a881-606259e86500": {
+    "body_part_raw": "core",
+    "name": "Oblique Crunch (Cable)"
+  },
+  "6a096b30-d441-43da-9cc8-47df817716db": {
+    "body_part_raw": "arms",
+    "name": "Cable Hammer Curl Iso"
+  },
+  "6ae27da7-92b9-4af9-b2a9-e0afd827c188": {
+    "body_part_raw": "chest",
+    "name": "Chest Press (Machine)"
+  },
+  "6b6456e0-3725-4a0a-8306-1bd555f4e5b5": {
+    "body_part_raw": "chest",
+    "name": "Bench Press - Wide Grip (Barbell)"
+  },
+  "6df7b87b-4467-43b6-9458-6ade61838823": {
+    "body_part_raw": "core",
+    "name": "Knees to Elbows"
+  },
+  "6ea51a45-0e8c-4a65-88cd-b6afd52902e7": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl Preacher (Machine)"
+  },
+  "6edf0381-ebaf-4163-9f0f-f6099f9e29ff": {
+    "body_part_raw": "legs",
+    "name": "Deadlift (Band)"
+  },
+  "6f66b6ce-846b-4f1c-b1ce-dd0fc0f542c2": {
+    "body_part_raw": "back",
+    "name": "Bent Over Row - Underhand (Barbell)"
+  },
+  "6f7f2abf-43f9-414c-8fc9-cc02193c9669": {
+    "body_part_raw": "chest",
+    "name": "Decline Bench Press (Dumbbell)"
+  },
+  "70709ccd-1f01-4725-98ad-193d2004babf": {
+    "body_part_raw": "arms",
+    "name": "Bicep Curl (Cable)"
+  },
+  "72b896d3-9fcd-4b30-9fa8-7df6292239a4": {
+    "body_part_raw": "back",
+    "name": "Archer Pull"
+  },
+  "74a43a3f-5e0b-43c8-953e-f7e9c7d72986": {
+    "body_part_raw": "full-body",
+    "name": "Kettlebell Swing"
+  },
+  "74b44a29-ed5f-4cc1-bae5-7349ce4f3872": {
+    "body_part_raw": "shoulders",
+    "name": "Shoulder Press Plates"
+  },
+  "75db1c00-2a25-4148-8898-0838aedf1573": {
+    "body_part_raw": "arms",
+    "name": "Single Hand D Handle Wrist Curl"
+  },
+  "791affe4-781e-46b2-8b4c-6767ed13de9d": {
+    "body_part_raw": null,
+    "name": "Calf Raises"
+  },
+  "79a42fc3-5363-48d7-9fba-8e643d50bbd4": {
+    "body_part_raw": "arms",
+    "name": "Triceps Pushdown (Cable - Straight Bar)"
+  },
+  "79f272a9-2d7f-4df0-ac75-d7d973f1df25": {
+    "body_part_raw": "core",
+    "name": "Side Bend (Dumbbell)"
+  },
+  "7f6f4c96-4893-4f40-a7f4-2baf53cb3d04": {
+    "body_part_raw": "chest",
+    "name": "Incline Bench Press (Cable)"
+  },
+  "815c8007-0c79-4f8d-a2b8-873f7c03be9a": {
+    "body_part_raw": "arms",
+    "name": "Preacher Curl (Dumbbell)"
+  },
+  "819a0ba2-0a52-41f9-81dc-8f00c1f5a55d": {
+    "body_part_raw": "legs",
+    "name": "Calf Press on Leg Press"
+  },
+  "828ec5b3-fc2f-4f29-b372-607dde9c799a": {
+    "body_part_raw": "back",
+    "name": "Bent Over Row (Band)"
+  },
+  "8304df34-df61-423e-a9c9-f0cce6f16428": {
+    "body_part_raw": "arms",
+    "name": "Seated Palms Up Wrist Curl (Dumbbell)"
+  },
+  "84a59482-5faf-451d-b5a9-6e98e868f006": {
+    "body_part_raw": "legs",
+    "name": "Deadlift (Dumbbell)"
+  },
+  "860bcb49-7f45-4212-9441-e9497e1220fc": {
+    "body_part_raw": "back",
+    "name": "Bent Over One Arm Row (Dumbbell)"
+  },
+  "86507241-3801-430a-9c0d-f2959669d8e3": {
+    "body_part_raw": "arms",
+    "name": "Overhead Katanas"
+  },
+  "88752416-1904-4187-a6b4-8faa014e781c": {
+    "body_part_raw": "arms",
+    "name": "Jm Press"
+  },
+  "88b0165c-0c7c-423a-949d-0171baa354c2": {
+    "body_part_raw": "legs",
+    "name": "Glute Kickback (Machine)"
+  },
+  "894a9de0-b8f3-4f7f-8102-6bf9cc8c5c6e": {
+    "body_part_raw": "legs",
+    "name": "Hack Squat (Barbell)"
+  },
+  "8951200e-5791-4885-bee1-cacac5d08c77": {
+    "body_part_raw": "shoulders",
+    "name": "Overhead Press (Smith Machine)"
+  },
+  "8b2c7487-28e7-48c3-8d07-1ad83cc7133c": {
+    "body_part_raw": "legs",
+    "name": "Straight Leg Deadlift (Band)"
+  },
+  "8d64a3f5-efb4-4bed-9962-0527b537b2dd": {
+    "body_part_raw": "back",
+    "name": "One Hand Lat Pullover"
+  },
+  "8dc8a29b-674b-43c9-bf6e-46b95f3414be": {
+    "body_part_raw": "shoulders",
+    "name": "Reverse Fly (Machine)"
+  },
+  "9000fcaf-155a-410e-b774-ee1dce73b62d": {
+    "body_part_raw": "legs",
+    "name": "Deadlift (Smith Machine)"
+  },
+  "9119c783-3819-4d5e-9e14-5ed9cb5751a2": {
+    "body_part_raw": "back",
+    "name": "Iso Lateral High Row"
+  },
+  "9178f1db-4383-4bbd-9eac-8eacd0b44ba4": {
+    "body_part_raw": "arms",
+    "name": "One Hand Tricep Extension"
+  },
+  "91d81750-91ad-47d7-a4d2-dda124e18ede": {
+    "body_part_raw": "back",
+    "name": "ISO-Lateral High Row"
+  },
+  "9274a2a9-0fcf-4b70-80db-23c935a46f1e": {
+    "body_part_raw": "arms",
+    "name": "One Hand Cable Forearm Curl"
+  },
+  "92dc278f-adbd-4651-ae32-cee15afbd31a": {
+    "body_part_raw": "shoulders",
+    "name": "One Hand Rear Delt Fly"
+  },
+  "933a3dbf-b9c2-40f9-852f-cd2b26dd9eb1": {
+    "body_part_raw": "arms",
+    "name": "Triceps Dip (Assisted)"
+  },
+  "94736943-1809-4519-a821-e33e698cef81": {
+    "body_part_raw": "back",
+    "name": "Seated Row Plates Lats"
+  },
+  "96602116-075a-4a29-b3e3-b7af5dd60bc5": {
+    "body_part_raw": "back",
+    "name": "Low To High Lat Row"
+  },
+  "980cb0df-4ef3-4af7-9333-48ee9f3943ce": {
+    "body_part_raw": "chest",
+    "name": "Incline Bench Press (Smith Machine)"
+  },
+  "99afdf73-0e2f-4f2d-a10d-90299196b0db": {
+    "body_part_raw": "legs",
+    "name": "Squat (Machine)"
+  },
+  "9a426b99-2830-4249-8314-bab46945fb77": {
+    "body_part_raw": "cardio",
+    "name": "Cycling (Indoor)"
+  },
+  "9a999f16-ca2a-47bf-a96c-b4977a6173ff": {
+    "body_part_raw": "back",
+    "name": "Inverted Row (Bodyweight)"
+  },
+  "9bf68e10-b954-4d3d-af8b-c3ca21587a70": {
+    "body_part_raw": "full-body",
+    "name": "Squat Row (Band)"
+  },
+  "9ecccc7c-1846-4f58-8b63-fe4694915296": {
+    "body_part_raw": "core",
+    "name": "Cross Body Crunch"
+  },
+  "a1a2e548-62a2-49cf-b310-36f4b20b961b": {
+    "body_part_raw": null,
+    "name": "Jm Press"
+  },
+  "a1b1a1cb-dacc-4d18-bf62-95d597db6715": {
+    "body_part_raw": "shoulders",
+    "name": "Front Raise (Plate)"
+  },
+  "a45a5776-cbfc-4abf-9a05-f5c7d110c8ff": {
+    "body_part_raw": "arms",
+    "name": "Incline Curl (Dumbbell)"
+  },
+  "a70c5efc-a8dc-46d8-bee6-dd212d814907": {
+    "body_part_raw": "arms",
+    "name": "Incline Curl (Machine)"
+  },
+  "a8121bda-a232-4da2-be80-85bbe05c53d7": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown (Machine)"
+  },
+  "a8eb5de6-5b77-4e81-adab-0835729506c7": {
+    "body_part_raw": "arms",
+    "name": "Preacher Curl (Machine)"
+  },
+  "a953b453-9eb2-4c4e-bc55-9962770702f1": {
+    "body_part_raw": "arms",
+    "name": "Reverse Grip Concentration Curl (Dumbbell)"
+  },
+  "acaf0999-7976-48f6-a5fc-80c0d6d7bb67": {
+    "body_part_raw": "legs",
+    "name": "Single Leg Bridge"
+  },
+  "ad292205-db0e-4ced-9cef-f82b8aa243d5": {
+    "body_part_raw": "legs",
+    "name": "Pistol Squat"
+  },
+  "b17b3529-a04b-4860-84ea-16b6de4b65cc": {
+    "body_part_raw": "chest",
+    "name": "Incline Chest Fly (Dumbbell)"
+  },
+  "b1827979-7d0e-4d6f-8498-c0b3fb1fe187": {
+    "body_part_raw": "legs",
+    "name": "Step-up"
+  },
+  "b2f5a8c1-b66a-4b4f-8f2a-72fbf578d943": {
+    "body_part_raw": "legs",
+    "name": "Lying Leg Curl (Machine)"
+  },
+  "b45be635-5eac-4d46-8071-607c1b1834cc": {
+    "body_part_raw": "arms",
+    "name": "Cable Kickback"
+  },
+  "b49268bb-058e-4139-ac4a-555d1d5ae9fb": {
+    "body_part_raw": "full-body",
+    "name": "Sumo Deadlift High Pull (Barbell)"
+  },
+  "b4e87615-60c0-42f1-ab8a-d87bb17408d1": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl Preacher (Dumbell)"
+  },
+  "b710665a-f88e-4d31-99bf-5ecb7b5f6500": {
+    "body_part_raw": "chest",
+    "name": "Iso-Lateral Chest Press (Machine)"
+  },
+  "b820cd1b-1eff-46c5-80b6-12055f927082": {
+    "body_part_raw": "chest",
+    "name": "Chest Fly (Dumbbell)"
+  },
+  "b825837f-54a9-4aeb-a156-2aa0c5731d93": {
+    "body_part_raw": "legs",
+    "name": "Romanian Deadlift (Smith Machine)"
+  },
+  "b8b33683-ce46-4392-8be5-207fe8e605bd": {
+    "body_part_raw": "arms",
+    "name": "Upright Row (Cable)"
+  },
+  "b8b52a3d-5fce-4063-b9bc-9dccf935be3e": {
+    "body_part_raw": "chest",
+    "name": "Decline Press (Plate Loaded)"
+  },
+  "bad7dcc2-fac7-4ec8-8c03-1ec6bb471069": {
+    "body_part_raw": "legs",
+    "name": "Hip Abductor (Machine)"
+  },
+  "bb94b95b-ecb0-4b90-94e3-8f6e557f774b": {
+    "body_part_raw": "core",
+    "name": "Crunch (Machine)"
+  },
+  "bbfc5141-a7d1-42a9-887f-bf8e825da359": {
+    "body_part_raw": "arms",
+    "name": "Cable Forearm Curl"
+  },
+  "bea508fb-4d1b-4320-8b34-20502785c6ec": {
+    "body_part_raw": "back",
+    "name": "Wide Pull Up"
+  },
+  "becb5ffe-b579-4383-a7f1-30da5373a922": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown (U handle)"
+  },
+  "bf2b8a82-3e96-47ca-a106-796e23193444": {
+    "body_part_raw": "legs",
+    "name": "Glute Ham Raise"
+  },
+  "c0748e6e-3a6a-4217-8912-0c2cc92ec704": {
+    "body_part_raw": "legs",
+    "name": "Deficit Deadlift (Barbell)"
+  },
+  "c1a119cf-c2fe-4493-bb37-a1c8b047ac35": {
+    "body_part_raw": "back",
+    "name": "Lat Pullover Machine"
+  },
+  "c47d1f28-8cda-4f4b-bd02-034e5ec7f9fd": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl Preacher (Plate Loaded)"
+  },
+  "c7d08564-4135-4ec3-bb3b-c3a36df4e7aa": {
+    "body_part_raw": "legs",
+    "name": "Calf Extension"
+  },
+  "c8fc2454-6b09-4e28-a762-397cca489fd2": {
+    "body_part_raw": "legs",
+    "name": "Cable Pull Through"
+  },
+  "c9c58c44-cdf5-4965-8108-c04e61dda035": {
+    "body_part_raw": "arms",
+    "name": "Jm Press (Smith Machine)"
+  },
+  "c9ef4e7a-2bec-41b1-8e62-b68dc6d81fb2": {
+    "body_part_raw": "legs",
+    "name": "Seated Leg Curl (Machine)"
+  },
+  "ca5502f6-1630-4da0-a43d-b5c8dd43f70e": {
+    "body_part_raw": "arms",
+    "name": "Wrist Curl (Barbell)"
+  },
+  "caa35db9-e106-4915-840c-e7205f6e7228": {
+    "body_part_raw": "shoulders",
+    "name": "Shoulder Press (Plate Loaded)"
+  },
+  "cffa1438-6d77-4a8d-8493-b8d7529d61ba": {
+    "body_part_raw": "back",
+    "name": "Rack Pull (Barbell)"
+  },
+  "d0972486-fcaa-40f3-b126-61a6d27e8c0e": {
+    "body_part_raw": "arms",
+    "name": "Cable Forearm Curl"
+  },
+  "d153de06-151b-4e15-baab-356bc69f16a7": {
+    "body_part_raw": "arms",
+    "name": "Overhead Tricep Extensions (Machine)"
+  },
+  "d1f2e4d1-2529-4d33-bfd1-3c22b7d99dbd": {
+    "body_part_raw": "legs",
+    "name": "Lateral Box Jump"
+  },
+  "d32f8c6a-e498-4fc0-b18d-5ce16680a63c": {
+    "body_part_raw": "full-body",
+    "name": "Thruster (Barbell)"
+  },
+  "d3560a25-828f-4f33-8624-6fc4875d3cca": {
+    "body_part_raw": "arms",
+    "name": "Triceps Extension (Barbell)"
+  },
+  "d3f21789-0e0c-4c2a-a633-3617f383a11d": {
+    "body_part_raw": "shoulders",
+    "name": "Lateral Raise (Machine)"
+  },
+  "d53099b7-31f3-41fa-99e2-72fdf47c4503": {
+    "body_part_raw": "legs",
+    "name": "Seated Leg Press (Machine)"
+  },
+  "d6e6537a-0e44-4d68-b44e-aefc3d2dc1ed": {
+    "body_part_raw": "arms",
+    "name": "Seated Dip"
+  },
+  "d704ef69-5ee0-4d90-90f3-2be5fbd38bdc": {
+    "body_part_raw": null,
+    "name": "Reverse Curl (Upper Only) Cable"
+  },
+  "d831d4f8-a2f2-42bd-82da-7a570dc15542": {
+    "body_part_raw": "arms",
+    "name": "Cross Cable Tricep Extension"
+  },
+  "de39b561-a90f-4212-95a3-84789c6f4813": {
+    "body_part_raw": "arms",
+    "name": "Bench Press - Close Grip (Barbell)"
+  },
+  "dec37cc1-69b4-4062-b37c-339299aee878": {
+    "body_part_raw": "legs",
+    "name": "Calf Raise (Dumbell)"
+  },
+  "defaaeb3-4d44-468e-abd5-6e2acd930f83": {
+    "body_part_raw": "arms",
+    "name": "Seated Bicep Curl"
+  },
+  "e0b1aa09-f4c5-4ead-95de-03a2f7530c87": {
+    "body_part_raw": "core",
+    "name": "Toes To Bar"
+  },
+  "e20140fd-4837-44a7-8379-ccf507ca50a4": {
+    "body_part_raw": "arms",
+    "name": "Hammer Curl Preacher (Plates)"
+  },
+  "e46d97d6-6ed6-49e0-ac9b-16664f6bb987": {
+    "body_part_raw": "back",
+    "name": "Machine Row Lat"
+  },
+  "e51ee0d8-bfa7-4bcf-b11d-86997a38c298": {
+    "body_part_raw": "arms",
+    "name": "Reverse Curl (Dumbbell)"
+  },
+  "e676f31d-5fa2-4a61-bed6-af0ff6c17c77": {
+    "body_part_raw": "full-body",
+    "name": "Kettlebell Turkish Get Up"
+  },
+  "e6926e32-55de-416f-a73a-ef63c9c8faab": {
+    "body_part_raw": null,
+    "name": "Squat Barbell"
+  },
+  "e6af1fc0-c961-4e74-a815-61f61e4fe42b": {
+    "body_part_raw": "chest",
+    "name": "Push Up (Band)"
+  },
+  "e6cf6892-4466-43c8-a7a8-1da48a2a02d8": {
+    "body_part_raw": "back",
+    "name": "Rear Delt Fly (Dumbell)"
+  },
+  "eb3c99fb-5073-444a-925d-2975913d98f6": {
+    "body_part_raw": "back",
+    "name": "Upper Back Wide Row"
+  },
+  "ec4d5ff5-bd4d-4b33-b785-7db1c36054f8": {
+    "body_part_raw": "shoulders",
+    "name": "Front Raise (Band)"
+  },
+  "ed06489a-f597-4cc1-81d0-eef7804f1fc5": {
+    "body_part_raw": "back",
+    "name": "Incline Row (Dumbbell)"
+  },
+  "edd6d6dd-2605-414a-bf0d-5ac3e41b8c06": {
+    "body_part_raw": "shoulders",
+    "name": "Reverse Fly (Dumbbell)"
+  },
+  "eff696f8-07e3-4745-aa31-a0def4c93ed1": {
+    "body_part_raw": "back",
+    "name": "Kneeling Pulldown (Band)"
+  },
+  "f12e2a9b-02ea-4d38-9127-aa6234786d3a": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown - Wide Grip (Cable)"
+  },
+  "f2db1a42-0b4b-4e14-af19-d8a1f7fba67d": {
+    "body_part_raw": "back",
+    "name": "Seated Lat Row (D Handle)"
+  },
+  "f31e19c8-1671-40e4-9089-e341fffe7751": {
+    "body_part_raw": "back",
+    "name": "Shrug (Smith Machine)"
+  },
+  "f33643ea-6cc0-4966-8b1a-b87696015072": {
+    "body_part_raw": "arms",
+    "name": "Wrist Roller"
+  },
+  "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9": {
+    "body_part_raw": "shoulders",
+    "name": "Incline Press"
+  },
+  "f404270f-f5cc-4291-8f79-7cf0b5c3cb53": {
+    "body_part_raw": "arms",
+    "name": "Seated Dip Machine"
+  },
+  "f5250b2b-dffc-469b-bcd9-6c5d6724b848": {
+    "body_part_raw": "arms",
+    "name": "Preacher Curl (Plate Loaded)"
+  },
+  "fbaf0b7d-39dd-42c0-aadb-2398e63cf824": {
+    "body_part_raw": "back",
+    "name": "One Hand Lat Row"
+  },
+  "fbbd32d2-595a-4c4a-86de-05a06ef12908": {
+    "body_part_raw": "arms",
+    "name": "Bench Dip"
+  },
+  "fbd89dfb-0de7-4808-86d7-979d6f35126a": {
+    "body_part_raw": "back",
+    "name": "Lat Pulldown - Underhand (Cable)"
+  },
+  "fc0eaffb-e4d3-433e-8c19-7be1fdb0b0dc": {
+    "body_part_raw": "olympic",
+    "name": "Snatch Pull (Barbell)"
+  },
+  "fc97c865-facf-4eda-8159-82aa906175c5": {
+    "body_part_raw": "legs",
+    "name": "Standing Inwards Calf Raise (Smith Machine)"
+  },
+  "fe4e5949-5f51-4c60-a31f-b45bd9ad8023": {
+    "body_part_raw": "legs",
+    "name": "Goblet Squat (Kettlebell)"
+  }
+}

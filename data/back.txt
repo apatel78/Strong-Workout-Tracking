@@ -9,32 +9,14 @@ ARCHER PULL
     Set 1 ---- 8 reps ----- 27.5 lb
     Set 2 ---- 8 reps ----- 27.5 lb
 
-ISO LATERAL HIGH ROW
+ISO-LATERAL HIGH ROW
   Latest Workout: 2026-06-30
     Set 1 ---- 8 reps ----- 75 lb
     Set 2 ---- 7 reps ----- 75 lb
   ---------
-  Best Workout: 2025-04-24 (PR: 9 reps @ 75 lb)
-    Set 1 ---- 9 reps ----- 75 lb
-    Set 2 ---- 7 reps ----- 75 lb
-
-ISO-LATERAL HIGH ROW
-  Latest Workout: 2026-05-13
-    Set 1 ---- 10 reps ----- 60 lb
-    Set 2 ---- 8 reps ----- 60 lb
-  ---------
   Best Workout: 2024-09-19 (PR: 8 reps @ 80 lb)
     Set 1 ---- 8 reps ----- 80 lb
     Set 2 ---- 6 reps ----- 80 lb
-
-ISO-LATERAL HIGH ROW
-  Latest Workout: 2025-05-11
-    Set 1 ---- 8 reps ----- 75 lb
-    Set 2 ---- 7 reps ----- 75 lb
-  ---------
-  Best Workout: 2025-05-11 (PR: 8 reps @ 75 lb)
-    Set 1 ---- 8 reps ----- 75 lb
-    Set 2 ---- 7 reps ----- 75 lb
 
 LAT PULLDOWN (MACHINE)
   Latest Workout: 2025-08-05

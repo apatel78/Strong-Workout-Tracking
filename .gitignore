@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.strong-session.json
+*.pem
+*.key
+
+# Local API dumps that contain personal data
+tests/fixtures/live_sample.json
+debug/
+*.raw.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+.coverage
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# WSL / Windows alternate-data-stream artifacts
+*Zone.Identifier

@@ -1,0 +1,675 @@
+[
+  {
+    "_links": {},
+    "_embedded": {
+      "log": [
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/logs/bbbb2222-0000-4000-8000-000000000001"
+            },
+            "user": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000"
+            }
+          },
+          "_embedded": {
+            "cellSetGroup": [
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000001"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0011",
+                "cellSets": [
+                  {
+                    "id": "cs-0004",
+                    "cells": [
+                      {
+                        "id": "cell-0001",
+                        "cellType": "REPS",
+                        "value": "10"
+                      },
+                      {
+                        "id": "cell-0002",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "61.234969951"
+                      },
+                      {
+                        "id": "cell-0003",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0005",
+                    "cells": [
+                      {
+                        "id": "cell-0006",
+                        "cellType": "REST_TIMER",
+                        "value": "90"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0010",
+                    "cells": [
+                      {
+                        "id": "cell-0007",
+                        "cellType": "REPS",
+                        "value": "8"
+                      },
+                      {
+                        "id": "cell-0008",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "70.306817352"
+                      },
+                      {
+                        "id": "cell-0009",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000002"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0022",
+                "cellSets": [
+                  {
+                    "id": "cs-0015",
+                    "cells": [
+                      {
+                        "id": "cell-0012",
+                        "cellType": "REPS",
+                        "value": "5"
+                      },
+                      {
+                        "id": "cell-0013",
+                        "cellType": "BARBELL_WEIGHT",
+                        "value": "102.058283252"
+                      },
+                      {
+                        "id": "cell-0014",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0016",
+                    "cells": [
+                      {
+                        "id": "cell-0017",
+                        "cellType": "REST_TIMER",
+                        "value": "90"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0021",
+                    "cells": [
+                      {
+                        "id": "cell-0018",
+                        "cellType": "REPS",
+                        "value": "5"
+                      },
+                      {
+                        "id": "cell-0019",
+                        "cellType": "BARBELL_WEIGHT",
+                        "value": "111.130130652"
+                      },
+                      {
+                        "id": "cell-0020",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000003"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0027",
+                "cellSets": [
+                  {
+                    "id": "cs-0026",
+                    "cells": [
+                      {
+                        "id": "cell-0023",
+                        "cellType": "REPS",
+                        "value": "12"
+                      },
+                      {
+                        "id": "cell-0024",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "13.6077711"
+                      },
+                      {
+                        "id": "cell-0025",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              }
+            ]
+          },
+          "id": "bbbb2222-0000-4000-8000-000000000001",
+          "created": "2026-07-01T18:00:00.000Z",
+          "lastChanged": "2026-07-01T18:00:00.000Z",
+          "name": {
+            "custom": "Midday Workout"
+          },
+          "access": "PRIVATE",
+          "startDate": "2026-07-01T18:00:00.000Z",
+          "endDate": "2026-07-01T18:00:00.000Z",
+          "logType": "WORKOUT"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/logs/bbbb2222-0000-4000-8000-000000000002"
+            },
+            "user": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000"
+            }
+          },
+          "_embedded": {
+            "cellSetGroup": [
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000001"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0038",
+                "cellSets": [
+                  {
+                    "id": "cs-0031",
+                    "cells": [
+                      {
+                        "id": "cell-0028",
+                        "cellType": "REPS",
+                        "value": "5"
+                      },
+                      {
+                        "id": "cell-0029",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "83.914588452"
+                      },
+                      {
+                        "id": "cell-0030",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0032",
+                    "cells": [
+                      {
+                        "id": "cell-0033",
+                        "cellType": "REST_TIMER",
+                        "value": "90"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0037",
+                    "cells": [
+                      {
+                        "id": "cell-0034",
+                        "cellType": "REPS",
+                        "value": "4"
+                      },
+                      {
+                        "id": "cell-0035",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "83.914588452"
+                      },
+                      {
+                        "id": "cell-0036",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000004"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0043",
+                "cellSets": [
+                  {
+                    "id": "cs-0042",
+                    "cells": [
+                      {
+                        "id": "cell-0039",
+                        "cellType": "REPS",
+                        "value": "10"
+                      },
+                      {
+                        "id": "cell-0040",
+                        "cellType": "OTHER_WEIGHT",
+                        "value": "54.431084401"
+                      },
+                      {
+                        "id": "cell-0041",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              }
+            ]
+          },
+          "id": "bbbb2222-0000-4000-8000-000000000002",
+          "created": "2026-07-15T17:30:00.000Z",
+          "lastChanged": "2026-07-15T17:30:00.000Z",
+          "name": {
+            "custom": "Midday Workout"
+          },
+          "access": "PRIVATE",
+          "startDate": "2026-07-15T17:30:00.000Z",
+          "endDate": "2026-07-15T17:30:00.000Z",
+          "logType": "WORKOUT"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/logs/bbbb2222-0000-4000-8000-000000000003"
+            },
+            "user": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000"
+            }
+          },
+          "_embedded": {
+            "cellSetGroup": [
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000001"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0059",
+                "cellSets": [
+                  {
+                    "id": "cs-0048",
+                    "cells": [
+                      {
+                        "id": "cell-0044",
+                        "cellType": "REPS",
+                        "value": "8"
+                      },
+                      {
+                        "id": "cell-0045",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "102.058283252"
+                      },
+                      {
+                        "id": "cell-0046",
+                        "cellType": "RPE"
+                      },
+                      {
+                        "id": "cell-0047",
+                        "cellType": "SET_TYPE",
+                        "value": "WARMUP"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0049",
+                    "cells": [
+                      {
+                        "id": "cell-0050",
+                        "cellType": "REST_TIMER",
+                        "value": "90"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0054",
+                    "cells": [
+                      {
+                        "id": "cell-0051",
+                        "cellType": "REPS",
+                        "value": "3"
+                      },
+                      {
+                        "id": "cell-0052",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "83.914588452"
+                      },
+                      {
+                        "id": "cell-0053",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  },
+                  {
+                    "id": "cs-0058",
+                    "cells": [
+                      {
+                        "id": "cell-0055",
+                        "cellType": "REPS",
+                        "value": "99"
+                      },
+                      {
+                        "id": "cell-0056",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "453.13877764"
+                      },
+                      {
+                        "id": "cell-0057",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": false
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000003"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0064",
+                "cellSets": [
+                  {
+                    "id": "cs-0063",
+                    "cells": [
+                      {
+                        "id": "cell-0060",
+                        "cellType": "REPS",
+                        "value": "12"
+                      },
+                      {
+                        "id": "cell-0061",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "13.6077711"
+                      },
+                      {
+                        "id": "cell-0062",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000005"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0069",
+                "cellSets": [
+                  {
+                    "id": "cs-0068",
+                    "cells": [
+                      {
+                        "id": "cell-0065",
+                        "cellType": "REPS",
+                        "value": "1"
+                      },
+                      {
+                        "id": "cell-0066",
+                        "cellType": "OTHER_WEIGHT",
+                        "value": "40.823313301"
+                      },
+                      {
+                        "id": "cell-0067",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              },
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000006"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0074",
+                "cellSets": [
+                  {
+                    "id": "cs-0073",
+                    "cells": [
+                      {
+                        "id": "cell-0070",
+                        "cellType": "REPS",
+                        "value": "1"
+                      },
+                      {
+                        "id": "cell-0071",
+                        "cellType": "OTHER_WEIGHT",
+                        "value": "0.0"
+                      },
+                      {
+                        "id": "cell-0072",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              }
+            ]
+          },
+          "id": "bbbb2222-0000-4000-8000-000000000003",
+          "created": "2026-08-01T16:00:00.000Z",
+          "lastChanged": "2026-08-01T16:00:00.000Z",
+          "name": {
+            "custom": "Midday Workout"
+          },
+          "access": "PRIVATE",
+          "startDate": "2026-08-01T16:00:00.000Z",
+          "endDate": "2026-08-01T16:00:00.000Z",
+          "logType": "WORKOUT"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/logs/bbbb2222-0000-4000-8000-000000000004"
+            },
+            "user": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000"
+            }
+          },
+          "_embedded": {
+            "cellSetGroup": [
+              {
+                "_links": {
+                  "measurement": {
+                    "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000001"
+                  }
+                },
+                "_embedded": {},
+                "id": "grp-0079",
+                "cellSets": [
+                  {
+                    "id": "cs-0078",
+                    "cells": [
+                      {
+                        "id": "cell-0075",
+                        "cellType": "REPS",
+                        "value": "20"
+                      },
+                      {
+                        "id": "cell-0076",
+                        "cellType": "DUMBBELL_WEIGHT",
+                        "value": "183.704909854"
+                      },
+                      {
+                        "id": "cell-0077",
+                        "cellType": "RPE"
+                      }
+                    ],
+                    "isCompleted": true
+                  }
+                ]
+              }
+            ]
+          },
+          "id": "bbbb2222-0000-4000-8000-000000000004",
+          "created": "2026-08-02T10:00:00.000Z",
+          "lastChanged": "2026-08-02T10:00:00.000Z",
+          "name": {
+            "custom": "Body Measurement"
+          },
+          "access": "PRIVATE",
+          "startDate": "2026-08-02T10:00:00.000Z",
+          "endDate": "2026-08-02T10:00:00.000Z",
+          "logType": "MEASUREMENT"
+        }
+      ],
+      "measurement": [
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000001"
+            },
+            "tag": [
+              {
+                "href": "/api/users/00000000-0000-4000-8000-000000000000/tags/chest"
+              }
+            ]
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000001",
+          "name": {
+            "custom": "Bench Press (Dumbbell)"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000002"
+            },
+            "tag": [
+              {
+                "href": "/api/users/00000000-0000-4000-8000-000000000000/tags/upper_legs"
+              }
+            ]
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000002",
+          "name": {
+            "custom": "Squat (Barbell)"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000003"
+            },
+            "tag": [
+              {
+                "href": "/api/users/00000000-0000-4000-8000-000000000000/tags/upper_arms"
+              }
+            ]
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000003",
+          "name": {
+            "custom": "Bicep Curl (Dumbbell)"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000004"
+            }
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000004",
+          "name": {
+            "custom": "Lat Pulldown (Cable)"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000005"
+            },
+            "tag": [
+              {
+                "href": "/api/users/00000000-0000-4000-8000-000000000000/tags/cardio"
+              }
+            ]
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000005",
+          "name": {
+            "custom": "Sled Push"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaa1111-0000-4000-8000-000000000006"
+            },
+            "tag": [
+              {
+                "href": "/api/users/00000000-0000-4000-8000-000000000000/tags/core"
+              }
+            ]
+          },
+          "id": "aaaa1111-0000-4000-8000-000000000006",
+          "name": {
+            "custom": "Plank"
+          },
+          "measurementType": "EXERCISE"
+        },
+        {
+          "_links": {
+            "self": {
+              "href": "/api/users/00000000-0000-4000-8000-000000000000/measurements/aaaaaaaa-0000-0000-0000-000000000001"
+            }
+          },
+          "id": "aaaaaaaa-0000-0000-0000-000000000001",
+          "name": {
+            "custom": "Bodyweight"
+          },
+          "measurementType": "BODY_MEASUREMENT"
+        }
+      ]
+    }
+  }
+]

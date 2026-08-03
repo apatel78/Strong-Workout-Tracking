@@ -1,0 +1,69 @@
+name: Daily Strong Sync
+
+on:
+  schedule:
+    # 22:00 UTC = 5:00 PM EST. GitHub cron is UTC-only and does NOT observe
+    # daylight saving, so from March to November (EDT) this fires at 6:00 PM
+    # local Detroit time. If you want 5:00 PM local year-round, you have to
+    # edit this twice a year: "0 21 * * *" during EDT, "0 22 * * *" during EST.
+    # GitHub's scheduler is best-effort and often lags 5-30 minutes.
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+    inputs:
+      full_resync:
+        description: "Rebuild all history from scratch"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: strong-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          # All four are required secrets; none has a default in the code.
+          STRONG_API_BASE: ${{ secrets.STRONG_API_BASE }}
+          STRONG_USERNAME: ${{ secrets.STRONG_USERNAME }}
+          STRONG_PASSWORD: ${{ secrets.STRONG_PASSWORD }}
+          # Required: an unrecognized device triggers an MFA email challenge.
+          STRONG_DEVICE_ID: ${{ secrets.STRONG_DEVICE_ID }}
+        run: |
+          if [ "${{ inputs.full_resync }}" = "true" ]; then
+            python -m strong_sync.cli sync --full-resync -v
+          else
+            python -m strong_sync.cli sync -v
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "strong-sync-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data state.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: strong sync $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "Push attempt $i failed; retrying..."
+            sleep 5
+          done
+          exit 1
