@@ -7,7 +7,7 @@ on:
     # local Detroit time. If you want 5:00 PM local year-round, you have to
     # edit this twice a year: "0 21 * * *" during EDT, "0 22 * * *" during EST.
     # GitHub's scheduler is best-effort and often lags 5-30 minutes.
-    - cron: "30 23 * * *"
+    - cron: "00 8 * * *"
   workflow_dispatch:
     inputs:
       full_resync:
