@@ -191,42 +191,42 @@
   },
   "15a4e0cd-bec7-4939-8712-0ea41af6d2da": {
     "best": {
-      "date": "2026-07-18T12:01:10.255000+00:00",
-      "log_id": "91099f25-edfd-41d5-b1dd-78e2a3cb6cec",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "15a4e0cd-bec7-4939-8712-0ea41af6d2da",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 9,
-          "weight": 45.0
+          "reps": 8,
+          "weight": 50.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 45.0
+          "reps": 6,
+          "weight": 50.0
         }
       ]
     },
     "latest": {
-      "date": "2026-07-18T12:01:10.255000+00:00",
-      "log_id": "91099f25-edfd-41d5-b1dd-78e2a3cb6cec",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "15a4e0cd-bec7-4939-8712-0ea41af6d2da",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 9,
-          "weight": 45.0
+          "reps": 8,
+          "weight": 50.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 45.0
+          "reps": 6,
+          "weight": 50.0
         }
       ]
     },
@@ -254,8 +254,8 @@
       ]
     },
     "latest": {
-      "date": "2026-07-29T16:07:44.514000+00:00",
-      "log_id": "e51ed1a1-f4cd-460e-9b83-5daec1d9378a",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "16a02974-2807-4a5a-be6e-f06e75530cd0",
       "name_hint": null,
       "sets": [
@@ -268,7 +268,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 37.5
         }
       ]
@@ -1436,42 +1436,42 @@
   },
   "72b896d3-9fcd-4b30-9fa8-7df6292239a4": {
     "best": {
-      "date": "2026-07-29T16:07:44.514000+00:00",
-      "log_id": "e51ed1a1-f4cd-460e-9b83-5daec1d9378a",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "72b896d3-9fcd-4b30-9fa8-7df6292239a4",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 27.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
-          "weight": 27.5
+          "reps": 7,
+          "weight": 30.0
         }
       ]
     },
     "latest": {
-      "date": "2026-07-29T16:07:44.514000+00:00",
-      "log_id": "e51ed1a1-f4cd-460e-9b83-5daec1d9378a",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "72b896d3-9fcd-4b30-9fa8-7df6292239a4",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 27.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
-          "weight": 27.5
+          "reps": 7,
+          "weight": 30.0
         }
       ]
     },
@@ -1585,15 +1585,15 @@
       ]
     },
     "latest": {
-      "date": "2026-07-30T16:32:45.802000+00:00",
-      "log_id": "630fc456-11ce-4c50-90e1-fedda6c2adc2",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "75db1c00-2a25-4148-8898-0838aedf1573",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 37.5
         },
         {
@@ -1769,15 +1769,15 @@
       ]
     },
     "latest": {
-      "date": "2026-07-29T16:07:44.514000+00:00",
-      "log_id": "e51ed1a1-f4cd-460e-9b83-5daec1d9378a",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "820ee004-4443-49d3-aeeb-50b0a53298dc",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 0.0
         },
         {
@@ -1996,8 +1996,8 @@
       ]
     },
     "latest": {
-      "date": "2026-07-30T16:32:45.802000+00:00",
-      "log_id": "630fc456-11ce-4c50-90e1-fedda6c2adc2",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "91efd24a-9acc-40dd-8f7f-16a1ab175f33",
       "name_hint": null,
       "sets": [
@@ -2016,7 +2016,7 @@
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 42.5
         }
       ]
@@ -3382,21 +3382,21 @@
       ]
     },
     "latest": {
-      "date": "2026-07-30T16:32:45.802000+00:00",
-      "log_id": "630fc456-11ce-4c50-90e1-fedda6c2adc2",
+      "date": "2026-08-05T16:08:22.073000+00:00",
+      "log_id": "c6458f41-cb16-4117-86b8-dd7641d63e40",
       "metric_id": "d153de06-151b-4e15-baab-356bc69f16a7",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 70.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 5,
           "weight": 70.0
         }
       ]
