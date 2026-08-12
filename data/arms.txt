@@ -22,15 +22,13 @@ CABLE FOREARM CURL
     Set 3 ---- 6 reps ----- 65 lb
 
 HAMMER CURL (CABLE)
-  Latest Workout: 2026-08-04
+  Latest Workout: 2026-08-09
     Set 1 ---- 10 reps ----- 52.5 lb
-    Set 2 ---- 8 reps ----- 52.5 lb
-    Set 3 ---- 6 reps ----- 52.5 lb
+    Set 2 ---- 7 reps ----- 52.5 lb
   ---------
-  Best Workout: 2026-08-04 (PR: 10 reps @ 52.5 lb)
+  Best Workout: 2026-08-09 (PR: 10 reps @ 52.5 lb)
     Set 1 ---- 10 reps ----- 52.5 lb
-    Set 2 ---- 8 reps ----- 52.5 lb
-    Set 3 ---- 6 reps ----- 52.5 lb
+    Set 2 ---- 7 reps ----- 52.5 lb
 
 HAMMER CURL PREACHER (DUMBELL)
   Latest Workout: 2025-06-08
@@ -129,9 +127,9 @@ OVERHEAD TRICEP EXTENSION ONE ARM
     Set 2 ---- 7 reps ----- 17.5 lb
 
 OVERHEAD TRICEP EXTENSIONS (MACHINE)
-  Latest Workout: 2026-08-05
+  Latest Workout: 2026-08-09
     Set 1 ---- 9 reps ----- 70 lb
-    Set 2 ---- 5 reps ----- 70 lb
+    Set 2 ---- 6 reps ----- 70 lb
   ---------
   Best Workout: 2026-02-04 (PR: 8 reps @ 80 lb)
     Set 1 ---- 8 reps ----- 80 lb
@@ -156,10 +154,10 @@ PREACHER CURL (MACHINE)
     Set 2 ---- 6 reps ----- 100 lb
 
 PREACHER CURL (PLATE LOADED)
-  Latest Workout: 2026-08-04
-    Set 1 ---- 8 reps ----- 75 lb
+  Latest Workout: 2026-08-09
+    Set 1 ---- 9 reps ----- 75 lb
     Set 2 ---- 5 reps ----- 75 lb
-    Set 3 ---- 5 reps ----- 60 lb
+    Set 3 ---- 6 reps ----- 60 lb
   ---------
   Best Workout: 2026-02-03 (PR: 8 reps @ 80 lb)
     Set 1 ---- 8 reps ----- 80 lb
@@ -197,7 +195,7 @@ REVERSE FOREARM CURL (CABLE)
     Set 2 ---- 8 reps ----- 52.5 lb
     Set 3 ---- 6 reps ----- 52.5 lb
 
-SINGLE HAND D HANDLE WRIST CURL
+SINGLE HAND D HANDLE WRIST CURL (BACKWARDS)
   Latest Workout: 2026-08-05
     Set 1 ---- 7 reps ----- 37.5 lb
     Set 2 ---- 7 reps ----- 37.5 lb
@@ -205,6 +203,15 @@ SINGLE HAND D HANDLE WRIST CURL
   Best Workout: 2026-07-30 (PR: 8 reps @ 37.5 lb)
     Set 1 ---- 8 reps ----- 37.5 lb
     Set 2 ---- 7 reps ----- 37.5 lb
+
+SINGLE HAND D HANDLE WRIST CURL (FORWARDS)
+  Latest Workout: 2026-08-09
+    Set 1 ---- 10 reps ----- 20 lb
+    Set 2 ---- 8 reps ----- 30 lb
+  ---------
+  Best Workout: 2026-08-09 (PR: 8 reps @ 30 lb)
+    Set 1 ---- 10 reps ----- 20 lb
+    Set 2 ---- 8 reps ----- 30 lb
 
 TRICEPS EXTENSION (CABLE)
   Latest Workout: 2025-08-01

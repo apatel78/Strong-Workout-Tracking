@@ -1,17 +1,17 @@
 LEGS
 ====
 HIP ABDUCTOR (MACHINE)
-  Latest Workout: 2026-08-03
+  Latest Workout: 2026-08-07
     Set 1 ---- 9 reps ----- 120 lb
-    Set 2 ---- 7 reps ----- 120 lb
+    Set 2 ---- 8 reps ----- 120 lb
   ---------
   Best Workout: 2025-04-25 (PR: 8 reps @ 140 lb)
     Set 1 ---- 10 reps ----- 130 lb
     Set 2 ---- 8 reps ----- 140 lb
 
 HIP ADDUCTOR (MACHINE)
-  Latest Workout: 2026-08-03
-    Set 1 ---- 8 reps ----- 135 lb
+  Latest Workout: 2026-08-11
+    Set 1 ---- 10 reps ----- 135 lb
     Set 2 ---- 7 reps ----- 135 lb
   ---------
   Best Workout: 2025-10-06 (PR: 10 reps @ 140 lb)
@@ -19,8 +19,8 @@ HIP ADDUCTOR (MACHINE)
     Set 2 ---- 7 reps ----- 140 lb
 
 LYING LEG CURL (MACHINE)
-  Latest Workout: 2026-08-03
-    Set 1 ---- 8 reps ----- 105 lb
+  Latest Workout: 2026-08-11
+    Set 1 ---- 9 reps ----- 105 lb
     Set 2 ---- 6 reps ----- 105 lb
   ---------
   Best Workout: 2024-06-08 (PR: 7 reps @ 115 lb)
@@ -28,9 +28,10 @@ LYING LEG CURL (MACHINE)
     Set 2 ---- 7 reps ----- 115 lb
 
 SEATED CALF RAISE (PLATE LOADED)
-  Latest Workout: 2026-07-13
-    Set 1 ---- 7 reps ----- 50 lb
-    Set 2 ---- 7 reps ----- 50 lb
+  Latest Workout: 2026-08-11
+    Set 1 ---- 8 reps ----- 50 lb
+    Set 2 ---- 9 reps ----- 50 lb
+    Set 3 ---- 9 reps ----- 50 lb
   ---------
   Best Workout: 2025-04-22 (PR: 9 reps @ 55 lb)
     Set 1 ---- 9 reps ----- 55 lb
@@ -38,19 +39,19 @@ SEATED CALF RAISE (PLATE LOADED)
     Set 3 ---- 8 reps ----- 55 lb
 
 SEATED LEG CURL (MACHINE)
-  Latest Workout: 2026-08-03
-    Set 1 ---- 8 reps ----- 140 lb
-    Set 2 ---- 7 reps ----- 140 lb
+  Latest Workout: 2026-08-11
+    Set 1 ---- 9 reps ----- 140 lb
+    Set 2 ---- 7 reps ----- 145 lb
   ---------
   Best Workout: 2025-01-08 (PR: 8 reps @ 150 lb)
     Set 1 ---- 8 reps ----- 150 lb
     Set 2 ---- 6 reps ----- 150 lb
 
 STANDING CALF RAISE (SMITH MACHINE)
-  Latest Workout: 2026-08-03
+  Latest Workout: 2026-08-07
     Set 1 ---- 10 reps ----- 115 lb
     Set 2 ---- 9 reps ----- 115 lb
-    Set 3 ---- 7 reps ----- 115 lb
+    Set 3 ---- 8 reps ----- 115 lb
   ---------
   Best Workout: 2025-05-14 (PR: 9 reps @ 195 lb)
     Set 1 ---- 8 reps ----- 195 lb

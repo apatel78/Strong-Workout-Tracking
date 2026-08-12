@@ -1,10 +1,10 @@
 {
   "continuation": null,
   "first_run": "2026-08-03T15:23:14+00:00",
-  "last_new_workout_at": "2026-08-07T09:02:35+00:00",
-  "last_run": "2026-08-11T16:26:54+00:00",
-  "last_successful_run": "2026-08-11T16:26:54+00:00",
-  "run_count": 13,
+  "last_new_workout_at": "2026-08-12T09:14:39+00:00",
+  "last_run": "2026-08-12T09:14:39+00:00",
+  "last_successful_run": "2026-08-12T09:14:39+00:00",
+  "run_count": 14,
   "seen_log_ids": [
     "009e7d07-8fe9-4931-94c8-49ed4d0b52a3",
     "01e1e438-b832-448c-baa7-9bd9140a1879",
@@ -45,6 +45,7 @@
     "2f7e6cd0-fa13-4f9a-bafb-919cc1dc24c9",
     "310947c3-ff52-40d5-9a36-13594b3ec67b",
     "327e1de8-dbe1-483b-b771-6b2637a0f894",
+    "330c3291-df34-4dab-b4b8-0ce84cc62714",
     "3453f35d-8b0f-46fd-97d3-50b76241f4fe",
     "3455b87e-c64c-4c3a-9294-2a8f7958b20d",
     "3646fe95-133e-4829-b538-cd46fb420343",
@@ -72,6 +73,7 @@
     "4e8abceb-5c2c-4baf-95a3-39e105640d87",
     "5031656b-ab3a-441c-995b-ec8031e7dc71",
     "53c802d7-ab78-432c-bb96-f6a54005e1ee",
+    "5474ff51-b4d0-4384-b262-6e22dd6904bd",
     "54e984c0-15e4-4303-9b56-238e8f047eeb",
     "54eacaf1-ce2e-4496-9fad-02243430f2e3",
     "5669a95b-2edd-4394-9fd0-1da431d7aaaa",
@@ -91,6 +93,7 @@
     "6749b2b6-e810-4810-9ae5-497325dd7a6d",
     "6a5807c3-e2c7-440d-82e7-3cdee3828dc2",
     "6aa11cd9-89ea-4b44-a217-482c22a087c7",
+    "6c955252-78a2-4fc5-96b4-837aa6f8d465",
     "6cd62af2-c4b1-42e9-b2d0-f846a4b99960",
     "6da299d9-0153-4a7b-a36f-b7b08b7a9b53",
     "6dfb2eba-627d-4f86-af95-f51df6884dad",
@@ -130,6 +133,7 @@
     "919a58bf-1da3-41d4-a856-6fb44e80208c",
     "92aa9aa5-d586-457c-b56d-5bf57f6e2c5b",
     "939f94ae-b91e-49d5-9b9f-0d5a8cb4f294",
+    "94e2aac7-d426-4f75-803f-2e402cf154b0",
     "9514d605-65cf-425d-bd9c-f76a32cbd5bc",
     "96ba11a1-c04b-4dd3-99c3-3ce5627d5d0e",
     "96dd8001-d6e7-4419-bc6c-cb01a5126d2e",
@@ -210,5 +214,5 @@
     "fcd180bb-a78f-4191-aa48-07b00cf0bbc8",
     "ffdaacd0-20f4-4be3-89d0-b9ad0d9e0b55"
   ],
-  "total_workouts": 203
+  "total_workouts": 207
 }

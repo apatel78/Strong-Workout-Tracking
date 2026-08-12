@@ -291,6 +291,10 @@
     "body_part_raw": "shoulders",
     "name": "Front Raise (Barbell)"
   },
+  "5c369aeb-79ae-4fa8-80dc-156e41248f47": {
+    "body_part_raw": "arms",
+    "name": "Single Hand D Handle Wrist Curl (Forwards)"
+  },
   "5db8f3d7-445e-48bb-bf4b-979b6dfdb1eb": {
     "body_part_raw": "shoulders",
     "name": "Seated Overhead Press (Dumbbell)"
@@ -365,7 +369,7 @@
   },
   "75db1c00-2a25-4148-8898-0838aedf1573": {
     "body_part_raw": "arms",
-    "name": "Single Hand D Handle Wrist Curl"
+    "name": "Single Hand D Handle Wrist Curl (Backwards)"
   },
   "791affe4-781e-46b2-8b4c-6767ed13de9d": {
     "body_part_raw": null,

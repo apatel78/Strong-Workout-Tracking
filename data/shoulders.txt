@@ -1,7 +1,7 @@
 SHOULDERS
 =========
 INCLINE PRESS
-  Latest Workout: 2026-07-29
+  Latest Workout: 2026-08-08
     Set 1 ---- 8 reps ----- 75 lb
     Set 2 ---- 7 reps ----- 75 lb
   ---------
@@ -10,9 +10,9 @@ INCLINE PRESS
     Set 2 ---- 7 reps ----- 75 lb
 
 LATERAL RAISE (CABLE)
-  Latest Workout: 2026-07-30
+  Latest Workout: 2026-08-09
     Set 1 ---- 7 reps ----- 15 lb
-    Set 2 ---- 5 reps ----- 15 lb
+    Set 2 ---- 6 reps ----- 15 lb
   ---------
   Best Workout: 2024-09-20 (PR: 5 reps @ 15.5 lb)
     Set 1 ---- 5 reps ----- 15.5 lb
@@ -56,8 +56,8 @@ SHOULDER PRESS (PLATE LOADED)
     Set 2 ---- 5 reps ----- 60 lb
 
 SHOULDER PRESS DUMBELL
-  Latest Workout: 2026-07-30
-    Set 1 ---- 9 reps ----- 47.5 lb
+  Latest Workout: 2026-08-09
+    Set 1 ---- 8 reps ----- 50 lb
     Set 2 ---- 7 reps ----- 50 lb
   ---------
   Best Workout: 2026-02-03 (PR: 7 reps @ 52.5 lb)
