@@ -536,8 +536,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-09T18:49:17.783000+00:00",
-      "log_id": "94e2aac7-d426-4f75-803f-2e402cf154b0",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "2558766f-8f9a-49da-b336-b2c19c0446b8",
       "name_hint": null,
       "sets": [
@@ -550,7 +550,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 75.0
         },
         {
@@ -1019,42 +1019,42 @@
   },
   "4a304d9a-9a7a-440f-bb9a-9fd5cde6b590": {
     "best": {
-      "date": "2026-08-09T18:49:17.783000+00:00",
-      "log_id": "94e2aac7-d426-4f75-803f-2e402cf154b0",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "4a304d9a-9a7a-440f-bb9a-9fd5cde6b590",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 10,
-          "weight": 52.5
+          "reps": 8,
+          "weight": 57.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 52.5
+          "reps": 6,
+          "weight": 57.5
         }
       ]
     },
     "latest": {
-      "date": "2026-08-09T18:49:17.783000+00:00",
-      "log_id": "94e2aac7-d426-4f75-803f-2e402cf154b0",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "4a304d9a-9a7a-440f-bb9a-9fd5cde6b590",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 10,
-          "weight": 52.5
+          "reps": 8,
+          "weight": 57.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 52.5
+          "reps": 6,
+          "weight": 57.5
         }
       ]
     },
@@ -1352,21 +1352,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-08T13:58:37.869000+00:00",
-      "log_id": "330c3291-df34-4dab-b4b8-0ce84cc62714",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "6ae27da7-92b9-4af9-b2a9-e0afd827c188",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 9,
           "weight": 95.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 95.0
         }
       ]
@@ -2346,15 +2346,15 @@
       ]
     },
     "latest": {
-      "date": "2026-08-08T13:58:37.869000+00:00",
-      "log_id": "330c3291-df34-4dab-b4b8-0ce84cc62714",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "a60fd1af-31d7-4235-92cd-57f76d1c39e9",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 9,
+          "reps": 8,
           "weight": 150.0
         },
         {
@@ -2886,27 +2886,27 @@
       ]
     },
     "latest": {
-      "date": "2026-08-08T13:58:37.869000+00:00",
-      "log_id": "330c3291-df34-4dab-b4b8-0ce84cc62714",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "bb94b95b-ecb0-4b90-94e3-8f6e557f774b",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 11,
           "weight": 25.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 9,
           "weight": 25.0
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 25.0
         }
       ]
@@ -3260,8 +3260,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-04T17:08:14.978000+00:00",
-      "log_id": "f6a4232c-3f98-49dc-ae3c-50f420782c52",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "caa35db9-e106-4915-840c-e7205f6e7228",
       "name_hint": null,
       "sets": [
@@ -3274,7 +3274,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 50.0
         }
       ]
@@ -3450,15 +3450,15 @@
       ]
     },
     "latest": {
-      "date": "2026-08-04T17:08:14.978000+00:00",
-      "log_id": "f6a4232c-3f98-49dc-ae3c-50f420782c52",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "d3f21789-0e0c-4c2a-a633-3617f383a11d",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 90.0
         },
         {
@@ -3614,8 +3614,8 @@
   },
   "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9": {
     "best": {
-      "date": "2025-05-15T16:53:21.781000+00:00",
-      "log_id": "0dec0bcd-e0a6-47ee-9e19-e63ec55f7039",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9",
       "name_hint": null,
       "sets": [
@@ -3634,15 +3634,15 @@
       ]
     },
     "latest": {
-      "date": "2026-08-08T13:58:37.869000+00:00",
-      "log_id": "330c3291-df34-4dab-b4b8-0ce84cc62714",
+      "date": "2026-08-12T16:53:31.622000+00:00",
+      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
       "metric_id": "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 75.0
         },
         {

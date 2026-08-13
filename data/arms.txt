@@ -22,13 +22,13 @@ CABLE FOREARM CURL
     Set 3 ---- 6 reps ----- 65 lb
 
 HAMMER CURL (CABLE)
-  Latest Workout: 2026-08-09
-    Set 1 ---- 10 reps ----- 52.5 lb
-    Set 2 ---- 7 reps ----- 52.5 lb
+  Latest Workout: 2026-08-12
+    Set 1 ---- 8 reps ----- 57.5 lb
+    Set 2 ---- 6 reps ----- 57.5 lb
   ---------
-  Best Workout: 2026-08-09 (PR: 10 reps @ 52.5 lb)
-    Set 1 ---- 10 reps ----- 52.5 lb
-    Set 2 ---- 7 reps ----- 52.5 lb
+  Best Workout: 2026-08-12 (PR: 8 reps @ 57.5 lb)
+    Set 1 ---- 8 reps ----- 57.5 lb
+    Set 2 ---- 6 reps ----- 57.5 lb
 
 HAMMER CURL PREACHER (DUMBELL)
   Latest Workout: 2025-06-08
@@ -154,9 +154,9 @@ PREACHER CURL (MACHINE)
     Set 2 ---- 6 reps ----- 100 lb
 
 PREACHER CURL (PLATE LOADED)
-  Latest Workout: 2026-08-09
+  Latest Workout: 2026-08-12
     Set 1 ---- 9 reps ----- 75 lb
-    Set 2 ---- 5 reps ----- 75 lb
+    Set 2 ---- 6 reps ----- 75 lb
     Set 3 ---- 6 reps ----- 60 lb
   ---------
   Best Workout: 2026-02-03 (PR: 8 reps @ 80 lb)
