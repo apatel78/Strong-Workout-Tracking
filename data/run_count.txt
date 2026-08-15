@@ -1,5 +1,5 @@
-Days run: 16
+Days run: 17
 First run: 2026-08-03T15:23:14+00:00
-Last run: 2026-08-14T09:10:16+00:00
+Last run: 2026-08-15T08:32:04+00:00
 Workouts tracked: 208
 Last new workout seen: 2026-08-13T09:15:12+00:00
