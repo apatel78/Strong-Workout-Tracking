@@ -1,13 +1,13 @@
 BACK
 ====
 ARCHER PULL
-  Latest Workout: 2026-08-13
-    Set 1 ---- 9 reps ----- 30 lb
-    Set 2 ---- 7 reps ----- 30 lb
+  Latest Workout: 2026-08-19
+    Set 1 ---- 8 reps ----- 32.5 lb
+    Set 2 ---- 7 reps ----- 32.5 lb
   ---------
-  Best Workout: 2026-08-13 (PR: 9 reps @ 30 lb)
-    Set 1 ---- 9 reps ----- 30 lb
-    Set 2 ---- 7 reps ----- 30 lb
+  Best Workout: 2026-08-19 (PR: 8 reps @ 32.5 lb)
+    Set 1 ---- 8 reps ----- 32.5 lb
+    Set 2 ---- 7 reps ----- 32.5 lb
 
 ISO-LATERAL HIGH ROW
   Latest Workout: 2026-06-30
@@ -55,9 +55,9 @@ LAT PULLOVER (CABLE)
     Set 2 ---- 7 reps ----- 40 lb
 
 LAT PULLOVER CABLE
-  Latest Workout: 2026-08-13
-    Set 1 ---- 8 reps ----- 37.5 lb
-    Set 2 ---- 7 reps ----- 37.5 lb
+  Latest Workout: 2026-08-19
+    Set 1 ---- 9 reps ----- 37.5 lb
+    Set 2 ---- 8 reps ----- 37.5 lb
   ---------
   Best Workout: 2026-02-04 (PR: 8 reps @ 45 lb)
     Set 1 ---- 8 reps ----- 45 lb
@@ -73,9 +73,9 @@ LAT PULLOVER MACHINE
     Set 2 ---- 7 reps ----- 130 lb
 
 MACHINE ROW UPPER
-  Latest Workout: 2026-08-13
-    Set 1 ---- 9 reps ----- 110 lb
-    Set 2 ---- 9 reps ----- 110 lb
+  Latest Workout: 2026-08-19
+    Set 1 ---- 9 reps ----- 115 lb
+    Set 2 ---- 7 reps ----- 115 lb
   ---------
   Best Workout: 2025-06-01 (PR: 7 reps @ 120 lb)
     Set 1 ---- 7 reps ----- 120 lb

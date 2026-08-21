@@ -1,10 +1,10 @@
 CORE
 ====
 CRUNCH (MACHINE)
-  Latest Workout: 2026-08-12
-    Set 1 ---- 11 reps ----- 25 lb
-    Set 2 ---- 9 reps ----- 25 lb
-    Set 3 ---- 6 reps ----- 25 lb
+  Latest Workout: 2026-08-19
+    Set 1 ---- 12 reps ----- 30 lb
+    Set 2 ---- 7 reps ----- 30 lb
+    Set 3 ---- 7 reps ----- 30 lb
   ---------
   Best Workout: 2025-05-31 (PR: 9 reps @ 110 lb)
     Set 1 ---- 9 reps ----- 110 lb
