@@ -1039,15 +1039,15 @@
       ]
     },
     "latest": {
-      "date": "2026-08-20T16:48:13.095000+00:00",
-      "log_id": "b7e4766c-f5f6-422b-94c8-96a0c21a7d2c",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "4a304d9a-9a7a-440f-bb9a-9fd5cde6b590",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 57.5
         },
         {
@@ -1352,21 +1352,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "6ae27da7-92b9-4af9-b2a9-e0afd827c188",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 100.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 4,
           "weight": 100.0
         }
       ]
@@ -1418,8 +1418,8 @@
   },
   "70709ccd-1f01-4725-98ad-193d2004babf": {
     "best": {
-      "date": "2025-02-18T20:53:46.579000+00:00",
-      "log_id": "be5b9099-3fcf-4afc-975f-e2d5a52140a1",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "70709ccd-1f01-4725-98ad-193d2004babf",
       "name_hint": null,
       "sets": [
@@ -1427,25 +1427,25 @@
           "index": 1,
           "is_warmup": false,
           "reps": 8,
-          "weight": 25.0
+          "weight": 50.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
-          "weight": 25.0
+          "reps": 6,
+          "weight": 50.0
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 30.0
+          "reps": 6,
+          "weight": 42.5
         }
       ]
     },
     "latest": {
-      "date": "2025-03-23T16:37:30.594000+00:00",
-      "log_id": "fcd180bb-a78f-4191-aa48-07b00cf0bbc8",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "70709ccd-1f01-4725-98ad-193d2004babf",
       "name_hint": null,
       "sets": [
@@ -1453,13 +1453,19 @@
           "index": 1,
           "is_warmup": false,
           "reps": 8,
-          "weight": 19.0
+          "weight": 50.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
-          "weight": 19.0
+          "reps": 6,
+          "weight": 50.0
+        },
+        {
+          "index": 3,
+          "is_warmup": false,
+          "reps": 6,
+          "weight": 42.5
         }
       ]
     },
@@ -2346,8 +2352,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "a60fd1af-31d7-4235-92cd-57f76d1c39e9",
       "name_hint": null,
       "sets": [
@@ -2886,27 +2892,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "bb94b95b-ecb0-4b90-94e3-8f6e557f774b",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 12,
+          "reps": 8,
           "weight": 30.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 30.0
-        },
-        {
-          "index": 3,
-          "is_warmup": false,
-          "reps": 7,
+          "reps": 6,
           "weight": 30.0
         }
       ]
@@ -3260,21 +3260,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-20T16:48:13.095000+00:00",
-      "log_id": "b7e4766c-f5f6-422b-94c8-96a0c21a7d2c",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "caa35db9-e106-4915-840c-e7205f6e7228",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 9,
+          "reps": 7,
           "weight": 50.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 6,
           "weight": 50.0
         }
       ]
@@ -3450,15 +3450,15 @@
       ]
     },
     "latest": {
-      "date": "2026-08-12T16:53:31.622000+00:00",
-      "log_id": "5109cb81-b22b-462f-89ba-d305aa391ca8",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "d3f21789-0e0c-4c2a-a633-3617f383a11d",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 90.0
         },
         {
@@ -3614,8 +3614,8 @@
   },
   "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9": {
     "best": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9",
       "name_hint": null,
       "sets": [
@@ -3628,14 +3628,14 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 6,
           "weight": 80.0
         }
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-09T17:12:59.773000+00:00",
+      "log_id": "59720d81-004f-4005-9fa3-ba78481ab948",
       "metric_id": "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9",
       "name_hint": null,
       "sets": [
@@ -3648,7 +3648,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 6,
           "weight": 80.0
         }
       ]
