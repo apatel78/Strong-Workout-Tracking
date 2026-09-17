@@ -254,21 +254,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "16a02974-2807-4a5a-be6e-f06e75530cd0",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 9,
+          "reps": 8,
           "weight": 37.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 37.5
         }
       ]
@@ -996,8 +996,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "44a7d1b6-ac2e-4022-9afb-c935dc0bc553",
       "name_hint": null,
       "sets": [
@@ -1473,41 +1473,41 @@
   },
   "72b896d3-9fcd-4b30-9fa8-7df6292239a4": {
     "best": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "72b896d3-9fcd-4b30-9fa8-7df6292239a4",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 32.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 32.5
         }
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "72b896d3-9fcd-4b30-9fa8-7df6292239a4",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 9,
           "weight": 32.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 32.5
         }
       ]
@@ -1622,21 +1622,21 @@
       ]
     },
     "latest": {
-      "date": "2026-08-13T17:15:53.820000+00:00",
-      "log_id": "9ef5026f-978f-41bf-920d-076c65451260",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "75db1c00-2a25-4148-8898-0838aedf1573",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 7,
           "weight": 37.5
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 37.5
         }
       ]
@@ -1806,8 +1806,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-19T16:26:04.888000+00:00",
-      "log_id": "f5b7e6de-366e-439a-a546-e867c059e071",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "820ee004-4443-49d3-aeeb-50b0a53298dc",
       "name_hint": null,
       "sets": [
@@ -1820,7 +1820,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 0.0
         }
       ]
@@ -2033,8 +2033,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-20T16:48:13.095000+00:00",
-      "log_id": "b7e4766c-f5f6-422b-94c8-96a0c21a7d2c",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "91efd24a-9acc-40dd-8f7f-16a1ab175f33",
       "name_hint": null,
       "sets": [
@@ -2047,13 +2047,13 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 8,
           "weight": 42.5
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 42.5
         }
       ]
@@ -3407,8 +3407,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-20T16:48:13.095000+00:00",
-      "log_id": "b7e4766c-f5f6-422b-94c8-96a0c21a7d2c",
+      "date": "2026-09-10T16:33:56.960000+00:00",
+      "log_id": "58913a91-9bf2-4b61-872f-bce119ddab8c",
       "metric_id": "d153de06-151b-4e15-baab-356bc69f16a7",
       "name_hint": null,
       "sets": [
