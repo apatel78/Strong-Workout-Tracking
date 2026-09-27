@@ -23,9 +23,9 @@ CABLE FOREARM CURL
     Set 3 ---- 6 reps ----- 65 lb
 
 HAMMER CURL (CABLE)
-  Latest Workout: 2026-09-09
+  Latest Workout: 2026-09-22
     Set 1 ---- 7 reps ----- 57.5 lb
-    Set 2 ---- 6 reps ----- 57.5 lb
+    Set 2 ---- 5 reps ----- 57.5 lb
   ---------
   Best Workout: 2026-08-12 (PR: 8 reps @ 57.5 lb)
     Set 1 ---- 8 reps ----- 57.5 lb
@@ -50,9 +50,9 @@ HAMMER CURL PREACHER (MACHINE)
     Set 2 ---- 5 reps ----- 100 lb
 
 HAMMER CURL PREACHER (PLATE LOADED)
-  Latest Workout: 2025-10-07
-    Set 1 ---- 9 reps ----- 70 lb
-    Set 2 ---- 5 reps ----- 70 lb
+  Latest Workout: 2026-09-25
+    Set 1 ---- 8 reps ----- 70 lb
+    Set 2 ---- 4 reps ----- 70 lb
   ---------
   Best Workout: 2024-06-05 (PR: 4 reps @ 80 lb)
     Set 1 ---- 4 reps ----- 80 lb
@@ -128,9 +128,9 @@ OVERHEAD TRICEP EXTENSION ONE ARM
     Set 2 ---- 7 reps ----- 17.5 lb
 
 OVERHEAD TRICEP EXTENSIONS (MACHINE)
-  Latest Workout: 2026-09-10
-    Set 1 ---- 8 reps ----- 75 lb
-    Set 2 ---- 6 reps ----- 75 lb
+  Latest Workout: 2026-09-22
+    Set 1 ---- 7 reps ----- 75 lb
+    Set 2 ---- 5 reps ----- 75 lb
   ---------
   Best Workout: 2026-02-04 (PR: 8 reps @ 80 lb)
     Set 1 ---- 8 reps ----- 80 lb
@@ -155,9 +155,9 @@ PREACHER CURL (MACHINE)
     Set 2 ---- 6 reps ----- 100 lb
 
 PREACHER CURL (PLATE LOADED)
-  Latest Workout: 2026-08-20
-    Set 1 ---- 9 reps ----- 75 lb
-    Set 2 ---- 6 reps ----- 75 lb
+  Latest Workout: 2026-09-25
+    Set 1 ---- 8 reps ----- 75 lb
+    Set 2 ---- 5 reps ----- 75 lb
     Set 3 ---- 5 reps ----- 60 lb
   ---------
   Best Workout: 2026-02-03 (PR: 8 reps @ 80 lb)
@@ -197,11 +197,11 @@ REVERSE FOREARM CURL (CABLE)
     Set 3 ---- 6 reps ----- 52.5 lb
 
 SINGLE HAND D HANDLE WRIST CURL (BACKWARDS)
-  Latest Workout: 2026-09-10
-    Set 1 ---- 7 reps ----- 37.5 lb
-    Set 2 ---- 7 reps ----- 37.5 lb
+  Latest Workout: 2026-09-22
+    Set 1 ---- 8 reps ----- 37.5 lb
+    Set 2 ---- 6 reps ----- 37.5 lb
   ---------
-  Best Workout: 2026-08-13 (PR: 8 reps @ 37.5 lb)
+  Best Workout: 2026-09-22 (PR: 8 reps @ 37.5 lb)
     Set 1 ---- 8 reps ----- 37.5 lb
     Set 2 ---- 6 reps ----- 37.5 lb
 
