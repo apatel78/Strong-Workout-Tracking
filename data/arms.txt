@@ -80,9 +80,9 @@ INCLINE CURL (MACHINE)
     Set 3 ---- 4 reps ----- 80 lb
 
 JM PRESS
-  Latest Workout: 2025-07-17
-    Set 1 ---- 9 reps ----- 25 lb
-    Set 2 ---- 6 reps ----- 25 lb
+  Latest Workout: 2026-09-26
+    Set 1 ---- 8 reps ----- 25 lb
+    Set 2 ---- 7 reps ----- 25 lb
   ---------
   Best Workout: 2025-07-17 (PR: 9 reps @ 25 lb)
     Set 1 ---- 9 reps ----- 25 lb
@@ -197,9 +197,10 @@ REVERSE FOREARM CURL (CABLE)
     Set 3 ---- 6 reps ----- 52.5 lb
 
 SINGLE HAND D HANDLE WRIST CURL (BACKWARDS)
-  Latest Workout: 2026-09-22
-    Set 1 ---- 8 reps ----- 37.5 lb
-    Set 2 ---- 6 reps ----- 37.5 lb
+  Latest Workout: 2026-09-26
+    Set 1 ---- 7 reps ----- 37.5 lb
+    Set 2 ---- 7 reps ----- 37.5 lb
+    Set 3 ---- 6 reps ----- 37.5 lb
   ---------
   Best Workout: 2026-09-22 (PR: 8 reps @ 37.5 lb)
     Set 1 ---- 8 reps ----- 37.5 lb
