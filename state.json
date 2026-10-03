@@ -1,10 +1,10 @@
 {
   "continuation": null,
   "first_run": "2026-08-03T15:23:14+00:00",
-  "last_new_workout_at": "2026-09-30T14:44:13+00:00",
-  "last_run": "2026-10-02T14:33:31+00:00",
-  "last_successful_run": "2026-10-01T15:13:10+00:00",
-  "run_count": 65,
+  "last_new_workout_at": "2026-10-03T13:09:01+00:00",
+  "last_run": "2026-10-03T13:09:01+00:00",
+  "last_successful_run": "2026-10-03T13:09:01+00:00",
+  "run_count": 66,
   "seen_log_ids": [
     "009e7d07-8fe9-4931-94c8-49ed4d0b52a3",
     "01e1e438-b832-448c-baa7-9bd9140a1879",
@@ -181,10 +181,12 @@
     "c9dba61f-da6f-4100-a346-7ee072b1ad34",
     "ca30c869-180c-4aaf-bc54-e690b5cd12f6",
     "ca443dbb-79be-4368-8f7c-473f0b1f7f72",
+    "cb7b7bff-c2a1-45e0-bf5d-b3675b781838",
     "cdfe84d8-6909-435b-abb2-37cd8f7e6a30",
     "ce30cd54-3dcb-4cb6-8520-a1e7ceaad3cb",
     "ceaf5365-0ffe-4053-a273-4d3593ff883d",
     "cf09e96e-93d6-43bc-8e4d-52e7e8a869ac",
+    "cf7fa8c9-78e5-473d-acd0-bfc1dccbeb7e",
     "d000852f-09bf-4a4c-8258-be527110466b",
     "d0386f76-ccba-4622-b1ec-a3fdb6cd105d",
     "d1e17673-32b7-4654-9f52-32154528a83a",
@@ -225,5 +227,5 @@
     "fcd180bb-a78f-4191-aa48-07b00cf0bbc8",
     "ffdaacd0-20f4-4be3-89d0-b9ad0d9e0b55"
   ],
-  "total_workouts": 218
+  "total_workouts": 220
 }
