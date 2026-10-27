@@ -1,10 +1,10 @@
 {
   "continuation": null,
   "first_run": "2026-08-03T15:23:14+00:00",
-  "last_new_workout_at": "2026-10-03T13:09:01+00:00",
-  "last_run": "2026-10-26T14:56:52+00:00",
-  "last_successful_run": "2026-10-26T14:56:52+00:00",
-  "run_count": 89,
+  "last_new_workout_at": "2026-10-27T14:09:21+00:00",
+  "last_run": "2026-10-27T14:09:21+00:00",
+  "last_successful_run": "2026-10-27T14:09:21+00:00",
+  "run_count": 90,
   "seen_log_ids": [
     "009e7d07-8fe9-4931-94c8-49ed4d0b52a3",
     "01e1e438-b832-448c-baa7-9bd9140a1879",
@@ -24,6 +24,7 @@
     "16b36d9b-c018-4285-8103-dcae7aa988d9",
     "16e69450-915a-41a9-a248-c9d3a37d407a",
     "178fac87-78ef-406e-bc93-88eb8ed34965",
+    "17ee5e0b-196f-4733-a1c2-d81e3961ba31",
     "1836b740-728e-4de7-ac79-7651c8e56193",
     "18aa3030-d524-4b0a-b3dc-57557e2da04a",
     "192b7051-f69c-44b8-acf5-de92494cb807",
@@ -64,6 +65,7 @@
     "405ca91a-efc7-48ba-852f-47964a308ad3",
     "41488797-7306-4a00-8a37-e19f7d895517",
     "42a8860b-a2b4-43e5-be73-15c3bdaa667d",
+    "43991dfa-570e-4246-8fed-57736cdfacdd",
     "4820eea1-b936-4c54-a17f-a7e50229a47c",
     "4a7fecd8-5f9a-4ce9-bd33-a258f8d59c7a",
     "4b561fa0-4d49-453b-b8df-cefddac22399",
@@ -156,6 +158,7 @@
     "a41da3e9-17b6-4d77-a206-0583823590b5",
     "a4ca6706-45e0-4664-b2a7-f24a1f4022c1",
     "a4e8ddf6-1de6-43e5-82c8-20fbfecc2165",
+    "a69c20aa-cb38-4c27-a5e9-8499d813b170",
     "a7052ef7-612b-4fa3-8aee-7a15f39ec65a",
     "a77b864a-2d38-4d20-b8d1-16e778efe164",
     "a8174774-f78f-4f73-b92d-b9058062b22b",
@@ -227,5 +230,5 @@
     "fcd180bb-a78f-4191-aa48-07b00cf0bbc8",
     "ffdaacd0-20f4-4be3-89d0-b9ad0d9e0b55"
   ],
-  "total_workouts": 220
+  "total_workouts": 223
 }

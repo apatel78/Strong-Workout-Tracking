@@ -1,13 +1,13 @@
 SHOULDERS
 =========
 INCLINE PRESS
-  Latest Workout: 2026-09-30
-    Set 1 ---- 9 reps ----- 80 lb
-    Set 2 ---- 6 reps ----- 80 lb
+  Latest Workout: 2026-10-26
+    Set 1 ---- 8 reps ----- 80 lb
+    Set 2 ---- 5 reps ----- 80 lb
   ---------
-  Best Workout: 2026-09-30 (PR: 9 reps @ 80 lb)
+  Best Workout: 2026-10-06 (PR: 9 reps @ 80 lb)
     Set 1 ---- 9 reps ----- 80 lb
-    Set 2 ---- 6 reps ----- 80 lb
+    Set 2 ---- 7 reps ----- 80 lb
 
 LATERAL RAISE (CABLE)
   Latest Workout: 2026-08-20
@@ -19,9 +19,9 @@ LATERAL RAISE (CABLE)
     Set 2 ---- 5 reps ----- 15.5 lb
 
 LATERAL RAISE (MACHINE)
-  Latest Workout: 2026-09-30
-    Set 1 ---- 8 reps ----- 90 lb
-    Set 2 ---- 7 reps ----- 90 lb
+  Latest Workout: 2026-10-26
+    Set 1 ---- 7 reps ----- 90 lb
+    Set 2 ---- 6 reps ----- 90 lb
   ---------
   Best Workout: 2025-08-01 (PR: 9 reps @ 105 lb)
     Set 1 ---- 9 reps ----- 105 lb
@@ -37,19 +37,18 @@ ONE HAND REAR DELT FLY
     Set 2 ---- 5 reps ----- 17.5 lb
 
 REVERSE FLY (MACHINE)
-  Latest Workout: 2026-06-16
-    Set 1 ---- 8 reps ----- 135 lb
-    Set 2 ---- 7 reps ----- 130 lb
-    Set 3 ---- 7 reps ----- 130 lb
+  Latest Workout: 2026-10-13
+    Set 1 ---- 8 reps ----- 130 lb
+    Set 2 ---- 6 reps ----- 130 lb
   ---------
   Best Workout: 2025-10-07 (PR: 8 reps @ 145 lb)
     Set 1 ---- 8 reps ----- 145 lb
     Set 2 ---- 7 reps ----- 145 lb
 
 SHOULDER PRESS (PLATE LOADED)
-  Latest Workout: 2026-09-30
+  Latest Workout: 2026-10-26
     Set 1 ---- 7 reps ----- 50 lb
-    Set 2 ---- 6 reps ----- 50 lb
+    Set 2 ---- 5 reps ----- 50 lb
   ---------
   Best Workout: 2025-07-06 (PR: 6 reps @ 60 lb)
     Set 1 ---- 6 reps ----- 60 lb
