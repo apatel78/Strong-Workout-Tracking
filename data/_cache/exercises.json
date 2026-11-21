@@ -156,28 +156,28 @@
       ]
     },
     "latest": {
-      "date": "2026-08-07T15:59:33.817000+00:00",
-      "log_id": "5474ff51-b4d0-4384-b262-6e22dd6904bd",
+      "date": "2026-11-21T01:05:46.146000+00:00",
+      "log_id": "42c3a723-00cc-4ff4-9edd-b4bb34f87679",
       "metric_id": "14263e88-13d4-4582-9b18-423a36631645",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 10,
-          "weight": 115.0
+          "reps": 8,
+          "weight": 90.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 9,
-          "weight": 115.0
+          "reps": 8,
+          "weight": 90.0
         },
         {
           "index": 3,
           "is_warmup": false,
           "reps": 8,
-          "weight": 115.0
+          "weight": 90.0
         }
       ]
     },
@@ -1763,8 +1763,8 @@
       ]
     },
     "latest": {
-      "date": "2026-08-18T17:24:19.706000+00:00",
-      "log_id": "c52addfa-c484-472e-9956-360e234732ad",
+      "date": "2026-11-21T01:05:46.146000+00:00",
+      "log_id": "42c3a723-00cc-4ff4-9edd-b4bb34f87679",
       "metric_id": "7d1df88e-8610-495b-83a3-d68aabbfee8a",
       "name_hint": null,
       "sets": [
@@ -1772,19 +1772,19 @@
           "index": 1,
           "is_warmup": false,
           "reps": 9,
-          "weight": 145.0
+          "weight": 130.0
         },
         {
           "index": 2,
           "is_warmup": false,
           "reps": 8,
-          "weight": 145.0
+          "weight": 130.0
         },
         {
           "index": 3,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 145.0
+          "reps": 7,
+          "weight": 130.0
         }
       ]
     },
@@ -2978,8 +2978,8 @@
       ]
     },
     "latest": {
-      "date": "2026-09-30T16:34:36.499000+00:00",
-      "log_id": "cb7b7bff-c2a1-45e0-bf5d-b3675b781838",
+      "date": "2026-11-21T01:05:46.146000+00:00",
+      "log_id": "42c3a723-00cc-4ff4-9edd-b4bb34f87679",
       "metric_id": "bb94b95b-ecb0-4b90-94e3-8f6e557f774b",
       "name_hint": null,
       "sets": [
@@ -2987,13 +2987,13 @@
           "index": 1,
           "is_warmup": false,
           "reps": 8,
-          "weight": 35.0
+          "weight": 25.0
         },
         {
           "index": 2,
           "is_warmup": false,
           "reps": 7,
-          "weight": 35.0
+          "weight": 25.0
         }
       ]
     },
@@ -3248,22 +3248,28 @@
       ]
     },
     "latest": {
-      "date": "2026-08-18T17:24:19.706000+00:00",
-      "log_id": "c52addfa-c484-472e-9956-360e234732ad",
+      "date": "2026-11-21T01:05:46.146000+00:00",
+      "log_id": "42c3a723-00cc-4ff4-9edd-b4bb34f87679",
       "metric_id": "c9ef4e7a-2bec-41b1-8e62-b68dc6d81fb2",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
-          "weight": 145.0
+          "reps": 9,
+          "weight": 130.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
-          "weight": 145.0
+          "reps": 8,
+          "weight": 130.0
+        },
+        {
+          "index": 3,
+          "is_warmup": false,
+          "reps": 7,
+          "weight": 130.0
         }
       ]
     },
