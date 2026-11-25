@@ -163,6 +163,10 @@
     "body_part_raw": "legs",
     "name": "Hip Adductor (Machine)"
   },
+  "32a1c405-961f-48ac-9855-cfe68638d144": {
+    "body_part_raw": "arms",
+    "name": "Bent Over Triceps Dumbbell"
+  },
   "32f66a87-e5f4-4483-9ae9-110c20f31667": {
     "body_part_raw": "shoulders",
     "name": "Lateral Raise Cable (Two Hands)"
