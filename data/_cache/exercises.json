@@ -1155,8 +1155,8 @@
       ]
     },
     "latest": {
-      "date": "2026-11-22T17:10:01.918000+00:00",
-      "log_id": "acf58eea-08bc-4058-96a1-080d5e13035d",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "44a7d1b6-ac2e-4022-9afb-c935dc0bc553",
       "name_hint": null,
       "sets": [
@@ -1560,21 +1560,21 @@
       ]
     },
     "latest": {
-      "date": "2026-11-21T16:35:18.754000+00:00",
-      "log_id": "137b5df6-af67-450a-8c8a-a39e32c5190d",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "6ae27da7-92b9-4af9-b2a9-e0afd827c188",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 9,
           "weight": 90.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 5,
+          "reps": 6,
           "weight": 90.0
         }
       ]
@@ -2014,15 +2014,15 @@
       ]
     },
     "latest": {
-      "date": "2026-11-22T17:10:01.918000+00:00",
-      "log_id": "acf58eea-08bc-4058-96a1-080d5e13035d",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "820ee004-4443-49d3-aeeb-50b0a53298dc",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 0.0
         },
         {
@@ -2382,8 +2382,8 @@
       ]
     },
     "latest": {
-      "date": "2026-11-25T23:09:06.739000+00:00",
-      "log_id": "5dc8dd48-1004-4956-8432-c4a5b84c71cb",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "93d038a6-92fc-484d-a948-9fad070ff5b1",
       "name_hint": null,
       "sets": [
@@ -2395,12 +2395,6 @@
         },
         {
           "index": 2,
-          "is_warmup": false,
-          "reps": 7,
-          "weight": 160.0
-        },
-        {
-          "index": 3,
           "is_warmup": false,
           "reps": 7,
           "weight": 160.0
@@ -2603,8 +2597,8 @@
       ]
     },
     "latest": {
-      "date": "2026-10-26T17:44:06.333000+00:00",
-      "log_id": "a69c20aa-cb38-4c27-a5e9-8499d813b170",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "a60fd1af-31d7-4235-92cd-57f76d1c39e9",
       "name_hint": null,
       "sets": [
@@ -2617,7 +2611,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
+          "reps": 6,
           "weight": 150.0
         }
       ]
@@ -2750,28 +2744,22 @@
       ]
     },
     "latest": {
-      "date": "2026-11-25T23:09:06.739000+00:00",
-      "log_id": "5dc8dd48-1004-4956-8432-c4a5b84c71cb",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "a8121bda-a232-4da2-be80-85bbe05c53d7",
       "name_hint": null,
       "sets": [
         {
           "index": 1,
           "is_warmup": false,
-          "reps": 8,
+          "reps": 6,
           "weight": 115.0
         },
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 7,
-          "weight": 115.0
-        },
-        {
-          "index": 3,
-          "is_warmup": false,
           "reps": 6,
-          "weight": 115.0
+          "weight": 105.0
         }
       ]
     },
@@ -3958,8 +3946,8 @@
       ]
     },
     "latest": {
-      "date": "2026-11-21T16:35:18.754000+00:00",
-      "log_id": "137b5df6-af67-450a-8c8a-a39e32c5190d",
+      "date": "2026-11-28T15:42:18.662000+00:00",
+      "log_id": "f8091c20-6f31-4eea-8dca-0974fa067ba5",
       "metric_id": "f34684d5-d967-48fd-8e8f-89d4e5ac5ca9",
       "name_hint": null,
       "sets": [
@@ -3972,7 +3960,7 @@
         {
           "index": 2,
           "is_warmup": false,
-          "reps": 6,
+          "reps": 7,
           "weight": 70.0
         }
       ]

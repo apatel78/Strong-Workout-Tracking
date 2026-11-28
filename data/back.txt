@@ -28,10 +28,9 @@ ISO-LATERAL HIGH ROW
     Set 2 ---- 6 reps ----- 80 lb
 
 LAT PULLDOWN (MACHINE)
-  Latest Workout: 2026-11-25
-    Set 1 ---- 8 reps ----- 115 lb
-    Set 2 ---- 7 reps ----- 115 lb
-    Set 3 ---- 6 reps ----- 115 lb
+  Latest Workout: 2026-11-28
+    Set 1 ---- 6 reps ----- 115 lb
+    Set 2 ---- 6 reps ----- 105 lb
   ---------
   Best Workout: 2025-08-05 (PR: 7 reps @ 120 lb)
     Set 1 ---- 7 reps ----- 120 lb
@@ -83,7 +82,7 @@ LAT PULLOVER MACHINE
     Set 2 ---- 7 reps ----- 130 lb
 
 MACHINE ROW UPPER
-  Latest Workout: 2026-11-22
+  Latest Workout: 2026-11-28
     Set 1 ---- 8 reps ----- 105 lb
     Set 2 ---- 6 reps ----- 105 lb
   ---------
